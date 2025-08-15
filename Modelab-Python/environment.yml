@@ -1,0 +1,33 @@
+name: environmental_python
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # --- Núcleo de Python y Jupyter ---
+  - python=3.10
+  - ipykernel
+  - jupyterlab
+  - ipywidgets
+
+  # --- Manipulación de datos y cómputo científico ---
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - scikit-bio
+
+  # --- Visualización ---
+  - matplotlib
+  - seaborn
+
+  # --- Utilidades y formato de código ---
+  - black
+  - pip
+
+  # --- Paquetes desde pip ---
+  - pip:
+      - factor_analyzer
+      - scikit-posthocs
