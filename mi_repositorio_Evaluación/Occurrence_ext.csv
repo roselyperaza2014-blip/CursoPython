@@ -1,0 +1,1586 @@
+﻿collection_code,event_id,catalog_number,occurrence_id,scientific_name,identification_qualifier,individual_count,class,feeding_type,life_mode,habitat
+GG,GG_GG01R1,1,CIM-UH_GG_1,Ailinzebina elegantissima,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,2,CIM-UH_GG_2,Atlantilux exigua,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,3,CIM-UH_GG_3,Atys, spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,4,CIM-UH_GG_4,Barbatia domingensis,,7,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R1,5,CIM-UH_GG_5,Caecum antillarum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,6,CIM-UH_GG_6,Caecum donmoorei,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,7,CIM-UH_GG_7,Caecum plicatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,8,CIM-UH_GG_8,Cerithiopsis academicorum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,9,CIM-UH_GG_9,Cerithiopsis, spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,10,CIM-UH_GG_10,Cerithium eburneum,,6,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R1,11,CIM-UH_GG_11,Cerithium litteratum,,24,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R1,12,CIM-UH_GG_12,Coralliophila salebrosa,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,13,CIM-UH_GG_13,Crassispira dysoni,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,14,CIM-UH_GG_14,Cratis antillensis,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R1,15,CIM-UH_GG_15,Eoacmaea pustulata,,10,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,16,CIM-UH_GG_16,Eulithidium bellum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,17,CIM-UH_GG_17,Eulithidium, sp.,25,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,18,CIM-UH_GG_18,Falsuszafrona pulchella,,5,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,19,CIM-UH_GG_19,Granulina antillensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,20,CIM-UH_GG_20,Granulina molinai,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,21,CIM-UH_GG_21,Haminoea elegans,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,22,CIM-UH_GG_22,Hemimarginula dentigera,,3,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG01R1,23,CIM-UH_GG_23,Iniforis turristhomae,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,24,CIM-UH_GG_24,Isotriphora taenialba,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,25,CIM-UH_GG_25,Meioceras cornucopiae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,26,CIM-UH_GG_26,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,27,CIM-UH_GG_27,Neotiara nodulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,28,CIM-UH_GG_28,Nototriphora decorata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,29,CIM-UH_GG_29,Parvilucina ,spp.,1,Bivalvia,Chemosymbiont,Benthic,coral reef
+GG,GG_GG01R1,30,CIM-UH_GG_30,Planktomya henseni,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R1,31,CIM-UH_GG_31,Pseudostomatella erythrocoma,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,32,CIM-UH_GG_32,Rissoina dyscrita,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,33,CIM-UH_GG_33,Schwartziella vanpeli,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,34,CIM-UH_GG_34,Tegula gruneri,,5,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,35,CIM-UH_GG_35,Teinostoma parvicallum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,36,CIM-UH_GG_36,Turbo cailletii,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R1,37,CIM-UH_GG_37,Turbonilla pupoides,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,38,CIM-UH_GG_38,Vermicularia, sp.,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R1,39,CIM-UH_GG_39,Vermicularia spirata,,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R1,40,CIM-UH_GG_40,Volvarina ,spp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R1,41,CIM-UH_GG_41,Zebinella decussata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,42,CIM-UH_GG_42,Acteocina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,43,CIM-UH_GG_43,Agathistoma fasciatum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,44,CIM-UH_GG_44,Agathotoma castellata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,45,CIM-UH_GG_45,Ailinzebina elegantissima,,13,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,46,CIM-UH_GG_46,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,47,CIM-UH_GG_47,Alvania ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,48,CIM-UH_GG_48,Anatoma rolani,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,49,CIM-UH_GG_49,Atlantilux exigua,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,50,CIM-UH_GG_50,Caecum circumvolutum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,51,CIM-UH_GG_51,Caecum floridanum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,52,CIM-UH_GG_52,Caecum imbricatum,,8,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,53,CIM-UH_GG_53,Caecum laeve,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,54,CIM-UH_GG_54,Cerithiopsis lata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,55,CIM-UH_GG_55,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R2,56,CIM-UH_GG_56,Cerithium litteratum,,33,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R2,57,CIM-UH_GG_57,Conus daucus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,58,CIM-UH_GG_58,Crassispira ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,59,CIM-UH_GG_59,Diodora minuta,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG01R2,60,CIM-UH_GG_60,Dolichupis leucosphaera,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,61,CIM-UH_GG_61,Emarginula phrixodes,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG01R2,62,CIM-UH_GG_62,Eoacmaea pustulata,,15,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,63,CIM-UH_GG_63,Eulithidium bellum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,64,CIM-UH_GG_64,Eulithidium, sp.,38,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,65,CIM-UH_GG_65,Falsuszafrona belkisae,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,66,CIM-UH_GG_66,Falsuszafrona pulchella,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,67,CIM-UH_GG_67,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,68,CIM-UH_GG_68,Granulina antillensis,,3,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,69,CIM-UH_GG_69,Haminoea elegans,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,70,CIM-UH_GG_70,Hemimarginula dentigera,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG01R2,71,CIM-UH_GG_71,Horologica pupa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,72,CIM-UH_GG_72,Iniforis pseudothomae,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,73,CIM-UH_GG_73,Meioceras cornucopiae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,74,CIM-UH_GG_74,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,75,CIM-UH_GG_75,Montfortia emarginata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,76,CIM-UH_GG_76,Nassarius ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,77,CIM-UH_GG_77,Nototriphora decorata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,78,CIM-UH_GG_78,Parviturbo weberi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,79,CIM-UH_GG_79,Phosinella cancellina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,80,CIM-UH_GG_80,Phosinella fenestrata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,81,CIM-UH_GG_81,Pseudostomatella erythrocoma,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,82,CIM-UH_GG_82,Rimula frenulata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,83,CIM-UH_GG_83,Schwartziella fischeri,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,84,CIM-UH_GG_84,Simulamerelina ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,85,CIM-UH_GG_85,Trochomodulus carchedonius,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,86,CIM-UH_GG_86,Turbo cailletii,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,87,CIM-UH_GG_87,Turbonilla pupoides,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,88,CIM-UH_GG_88,Vermicularia spirata,,2,Gastropoda,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R2,89,CIM-UH_GG_89,Vexillum sykesi,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,90,CIM-UH_GG_90,Vitrinella anneliesae,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,91,CIM-UH_GG_91,Volvarina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R2,92,CIM-UH_GG_92,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R2,93,CIM-UH_GG_93,Zebina ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,94,CIM-UH_GG_94,Agathistoma hotessierianum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,95,CIM-UH_GG_95,Ailinzebina elegantissima,,6,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,96,CIM-UH_GG_96,Atlantilux exigua,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,97,CIM-UH_GG_97,Caecum donmoorei,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,98,CIM-UH_GG_98,Caecum laeve,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,99,CIM-UH_GG_99,Caecum plicatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,100,CIM-UH_GG_100,Caecum ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,101,CIM-UH_GG_101,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R3,102,CIM-UH_GG_102,Cerithium litteratum,,10,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG01R3,103,CIM-UH_GG_103,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,104,CIM-UH_GG_104,Cratis antillensis,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG01R3,105,CIM-UH_GG_105,Eoacmaea pustulata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,106,CIM-UH_GG_106,Eulithidium, sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,107,CIM-UH_GG_107,Fissurella ,sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,108,CIM-UH_GG_108,Gibberula fluctuata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,109,CIM-UH_GG_109,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,110,CIM-UH_GG_110,Meioceras cornucopiae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,111,CIM-UH_GG_111,Meioceras cubitatum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,112,CIM-UH_GG_112,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,113,CIM-UH_GG_113,Nucula ,sp.,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GG,GG_GG01R3,114,CIM-UH_GG_114,Pseudopusula antillarum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,115,CIM-UH_GG_115,Rissoina vanderspoeli,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,116,CIM-UH_GG_116,Simulamerelina ,spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,117,CIM-UH_GG_117,Turbo cailletii,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG01R3,118,CIM-UH_GG_118,Vexillum sykesi,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,119,CIM-UH_GG_119,Volvarina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG01R3,120,CIM-UH_GG_120,Zafrona ,sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,121,CIM-UH_GG_121,Agathistoma lividomaculatum,,5,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,122,CIM-UH_GG_122,Alvania auberiana,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,123,CIM-UH_GG_123,Amphithalamus vallei,,34,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,124,CIM-UH_GG_124,Antalis antillarum,,3,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,125,CIM-UH_GG_125,Barbatia domingensis,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,126,CIM-UH_GG_126,Caecum circumvolutum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,127,CIM-UH_GG_127,Caecum plicatum,,9,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,128,CIM-UH_GG_128,Caecum regulare,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,129,CIM-UH_GG_129,Caecum ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,130,CIM-UH_GG_130,Carditopsis bernardi,,5,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,131,CIM-UH_GG_131,Carditopsis smithii,,5,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,132,CIM-UH_GG_132,Cerithiopsis, spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,133,CIM-UH_GG_133,Cerithium litteratum,,12,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG02R1,134,CIM-UH_GG_134,Cheilea americana,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,135,CIM-UH_GG_135,Chioneryx pygmaea,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,136,CIM-UH_GG_136,Columbella mercatoria,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,137,CIM-UH_GG_137,Ctena, spp.,3,Bivalvia,Chemosymbiont,Benthic,coral reef
+GG,GG_GG02R1,138,CIM-UH_GG_138,Diodora cayenensis,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG02R1,139,CIM-UH_GG_139,Diodora minuta,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG02R1,140,CIM-UH_GG_140,Eulithidium bellum,,14,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,141,CIM-UH_GG_141,Glycymeris decussata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,142,CIM-UH_GG_142,Hipponix antiquatus,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GG,GG_GG02R1,143,CIM-UH_GG_143,Isotriphora taenialba,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,144,CIM-UH_GG_144,Ividia havanensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,145,CIM-UH_GG_145,Meioceras cornucopiae,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,146,CIM-UH_GG_146,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,147,CIM-UH_GG_147,Natica ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,148,CIM-UH_GG_148,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,149,CIM-UH_GG_149,Phosinella cancellina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,150,CIM-UH_GG_150,Phosinella redferni,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,151,CIM-UH_GG_151,Pseudoscilla babylonia,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,152,CIM-UH_GG_152,Retilaskeya bicolor,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,153,CIM-UH_GG_153,Rissoina krebsii,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,154,CIM-UH_GG_154,Schwartziella vanpeli,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG02R1,155,CIM-UH_GG_155,Semele proficua,,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GG,GG_GG02R1,156,CIM-UH_GG_156,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,157,CIM-UH_GG_157,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,158,CIM-UH_GG_158,Turbonilla pupoides,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,159,CIM-UH_GG_159,Vexillum sykesi,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG02R1,160,CIM-UH_GG_160,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,161,CIM-UH_GG_161,Acteocina candei,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,162,CIM-UH_GG_162,Acteocina lepta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,163,CIM-UH_GG_163,Agathistoma hotessierianum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,164,CIM-UH_GG_164,Ailinzebina elegantissima,,7,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,165,CIM-UH_GG_165,Alvania auberiana,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,166,CIM-UH_GG_166,Alvania ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,167,CIM-UH_GG_167,Americardia guppyi,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,168,CIM-UH_GG_168,Americardia media,,8,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,169,CIM-UH_GG_169,Antalis antillarum,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,170,CIM-UH_GG_170,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,171,CIM-UH_GG_171,Arcopsis adamsi,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,172,CIM-UH_GG_172,Arene venustula,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,173,CIM-UH_GG_173,Atlantilux exigua,,16,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,174,CIM-UH_GG_174,Barbatia domingensis,,48,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,175,CIM-UH_GG_175,Caecum circumvolutum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,176,CIM-UH_GG_176,Caecum donmoorei,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,177,CIM-UH_GG_177,Caecum floridanum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,178,CIM-UH_GG_178,Caecum imbricatum,,6,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,179,CIM-UH_GG_179,Caecum plicatum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,180,CIM-UH_GG_180,Calliostoma, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,181,CIM-UH_GG_181,Cerithiopsis albovittata,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,182,CIM-UH_GG_182,Cerithiopsis singularis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,183,CIM-UH_GG_183,Cerithium atratum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R1,184,CIM-UH_GG_184,Cerithium eburneum,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R1,185,CIM-UH_GG_185,Cerithium litteratum,,24,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R1,186,CIM-UH_GG_186,Chama ,sp.,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,187,CIM-UH_GG_187,Columbella mercatoria,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,188,CIM-UH_GG_188,Compressidens wellsiana,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,189,CIM-UH_GG_189,Conus daucus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,190,CIM-UH_GG_190,Conus, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,191,CIM-UH_GG_191,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,192,CIM-UH_GG_192,Cosmotriphora melanura,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,193,CIM-UH_GG_193,Crassinella lunulata,,5,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,194,CIM-UH_GG_194,Cratis antillensis,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,195,CIM-UH_GG_195,Crenella decussata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,196,CIM-UH_GG_196,Cyclostrema cancellatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,197,CIM-UH_GG_197,Cypraea, sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,198,CIM-UH_GG_198,Diodora minuta,,5,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG04R1,199,CIM-UH_GG_199,Eoacmaea pustulata,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,200,CIM-UH_GG_200,Epicodakia filiata,,2,Bivalvia,Chemosymbiont,Benthic,coral reef
+GG,GG_GG04R1,201,CIM-UH_GG_201,Episiphon didymum,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,202,CIM-UH_GG_202,Eulithidium bellum,,6,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,203,CIM-UH_GG_203,Eulithidium, sp.,37,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,204,CIM-UH_GG_204,Falsuszafrona pulchella,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,205,CIM-UH_GG_205,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R1,206,CIM-UH_GG_206,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R1,207,CIM-UH_GG_207,Gibberula ,spp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,208,CIM-UH_GG_208,Glycymeris decussata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,209,CIM-UH_GG_209,Gouldia cerina,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,210,CIM-UH_GG_210,Granulina antillensis,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,211,CIM-UH_GG_211,Haminoea antillarum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,212,CIM-UH_GG_212,Hemimarginula pumila,,2,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG04R1,213,CIM-UH_GG_213,Hipponix antiquatus,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,214,CIM-UH_GG_214,Hipponix subrufus,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,215,CIM-UH_GG_215,Horologica pupa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,216,CIM-UH_GG_216,Iniforis pseudothomae,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,217,CIM-UH_GG_217,Iniforis turristhomae,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,218,CIM-UH_GG_218,Leucozonia nassa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,219,CIM-UH_GG_219,Lithopoma phoebium,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,220,CIM-UH_GG_220,Luria cinerea,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,221,CIM-UH_GG_221,Meioceras cornucopiae,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,222,CIM-UH_GG_222,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,223,CIM-UH_GG_223,Mitrella antares,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,224,CIM-UH_GG_224,Modulus modulus,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,225,CIM-UH_GG_225,Monophorus olivaceus,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,226,CIM-UH_GG_226,Montfortia emarginata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,227,CIM-UH_GG_227,Neotiara nodulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,228,CIM-UH_GG_228,Nototriphora decorata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,229,CIM-UH_GG_229,Parvilucina ,spp.,4,Bivalvia,Chemosymbiont,Benthic,coral reef
+GG,GG_GG04R1,230,CIM-UH_GG_230,Parviturbo marcosi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,231,CIM-UH_GG_231,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,232,CIM-UH_GG_232,Phosinella cancellina,,5,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,233,CIM-UH_GG_233,Phosinella redferni,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,234,CIM-UH_GG_234,Planktomya henseni,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,235,CIM-UH_GG_235,Pleuromeris tridentata,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,236,CIM-UH_GG_236,Polyschides tetraschistus,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,237,CIM-UH_GG_237,Pseudostomatella erythrocoma,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,238,CIM-UH_GG_238,Pygmaepterys rauli,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,239,CIM-UH_GG_239,Rissoina vanderspoeli,,11,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,240,CIM-UH_GG_240,Schwartziella vanpeli,,6,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,241,CIM-UH_GG_241,Simulamerelina caribaea,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,242,CIM-UH_GG_242,Simulamerelina ,spp.,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,243,CIM-UH_GG_243,Steironepion maculatum,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,244,CIM-UH_GG_244,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,245,CIM-UH_GG_245,Trochomodulus carchedonius,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,246,CIM-UH_GG_246,Tucetona subtilis,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,247,CIM-UH_GG_247,Turbo cailletii,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,248,CIM-UH_GG_248,Turbonilla pupoides,,3,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,249,CIM-UH_GG_249,Vermicularia spirata,,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R1,250,CIM-UH_GG_250,Vexillum sykesi,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,251,CIM-UH_GG_251,Volvarina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R1,252,CIM-UH_GG_252,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,253,CIM-UH_GG_253,Zebina ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,254,CIM-UH_GG_254,Zebina vitrea,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R1,255,CIM-UH_GG_255,Zebinella decussata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,256,CIM-UH_GG_256,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,257,CIM-UH_GG_257,Ailinzebina elegantissima,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,258,CIM-UH_GG_258,Alvania auberiana,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,259,CIM-UH_GG_259,Antalis antillarum,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,260,CIM-UH_GG_260,Arene tricarinata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,261,CIM-UH_GG_261,Atlantilux exigua,,7,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,262,CIM-UH_GG_262,Atys, spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,263,CIM-UH_GG_263,Barbatia domingensis,,13,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R2,264,CIM-UH_GG_264,Barleeia ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,265,CIM-UH_GG_265,Caecum antillarum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,266,CIM-UH_GG_266,Caecum condylum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,267,CIM-UH_GG_267,Caecum imbricatum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,268,CIM-UH_GG_268,Caecum plicatum,,8,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,269,CIM-UH_GG_269,Caecum regulare,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,270,CIM-UH_GG_270,Calliostoma, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,271,CIM-UH_GG_271,Cerithiopsis albovittata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,272,CIM-UH_GG_272,Cerithiopsis flava,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,273,CIM-UH_GG_273,Cerithiopsis, spp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,274,CIM-UH_GG_274,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R2,275,CIM-UH_GG_275,Cerithium litteratum,,17,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R2,276,CIM-UH_GG_276,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,277,CIM-UH_GG_277,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R2,278,CIM-UH_GG_278,Cratis antillensis,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R2,279,CIM-UH_GG_279,Cyclostrema amabile,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,280,CIM-UH_GG_280,Eoacmaea pustulata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,281,CIM-UH_GG_281,Eulithidium bellum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,282,CIM-UH_GG_282,Eulithidium, sp.,11,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,283,CIM-UH_GG_283,Gibberula ,spp.,3,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,284,CIM-UH_GG_284,Glycymeris decussata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R2,285,CIM-UH_GG_285,Granulina antillensis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,286,CIM-UH_GG_286,Heliacus bisulcatus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,287,CIM-UH_GG_287,Iniforis turristhomae,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,288,CIM-UH_GG_288,Isotriphora taenialba,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,289,CIM-UH_GG_289,Ithycythara maera,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,290,CIM-UH_GG_290,Latitriphora albida,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,291,CIM-UH_GG_291,Marginellopsis serrei,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,292,CIM-UH_GG_292,Marshallora modesta,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,293,CIM-UH_GG_293,Meioceras cornucopiae,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,294,CIM-UH_GG_294,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,295,CIM-UH_GG_295,Modulus modulus,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,296,CIM-UH_GG_296,Monophorus ateralbus,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,297,CIM-UH_GG_297,Neotiara nodulosa,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,298,CIM-UH_GG_298,Nototriphora decorata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,299,CIM-UH_GG_299,Octomarginula ostheimerae,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GG,GG_GG04R2,300,CIM-UH_GG_300,Phosinella fenestrata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,301,CIM-UH_GG_301,Phosinella sagraiana,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,302,CIM-UH_GG_302,Pseudostomatella erythrocoma,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,303,CIM-UH_GG_303,Rissoina vanderspoeli,,6,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,304,CIM-UH_GG_304,Schwartziella fischeri,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,305,CIM-UH_GG_305,Simulamerelina ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,306,CIM-UH_GG_306,Steironepion maculatum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,307,CIM-UH_GG_307,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,308,CIM-UH_GG_308,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,309,CIM-UH_GG_309,Turbo cailletii,,5,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,310,CIM-UH_GG_310,Turbonilla pupoides,,5,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,311,CIM-UH_GG_311,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,312,CIM-UH_GG_312,Vermicularia spirata,,2,Gastropoda,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R2,313,CIM-UH_GG_313,Vexillum moniliferum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,314,CIM-UH_GG_314,Vexillum pulchellum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,315,CIM-UH_GG_315,Vitrinella ,sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,316,CIM-UH_GG_316,Volvarina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R2,317,CIM-UH_GG_317,Zafrona ,sp.,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R2,318,CIM-UH_GG_318,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,319,CIM-UH_GG_319,Ailinzebina elegantissima,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,320,CIM-UH_GG_320,Alvania auberiana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,321,CIM-UH_GG_321,Americardia guppyi,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,322,CIM-UH_GG_322,Americardia media,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,323,CIM-UH_GG_323,Anadara notabilis,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,324,CIM-UH_GG_324,Antalis antillarum,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,325,CIM-UH_GG_325,Atlantilux exigua,,9,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,326,CIM-UH_GG_326,Atlantilux gemmata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,327,CIM-UH_GG_327,Atys, spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,328,CIM-UH_GG_328,Barbatia domingensis,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,329,CIM-UH_GG_329,Caecum antillarum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,330,CIM-UH_GG_330,Caecum circumvolutum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,331,CIM-UH_GG_331,Caecum donmoorei,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,332,CIM-UH_GG_332,Caecum floridanum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,333,CIM-UH_GG_333,Caecum imbricatum,,4,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,334,CIM-UH_GG_334,Caecum plicatum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,335,CIM-UH_GG_335,Carditopsis smithii,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,336,CIM-UH_GG_336,Cerithiopsis flava,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,337,CIM-UH_GG_337,Cerithiopsis io,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,338,CIM-UH_GG_338,Cerithiopsis lata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,339,CIM-UH_GG_339,Cerithiopsis, spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,340,CIM-UH_GG_340,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R3,341,CIM-UH_GG_341,Cerithium litteratum,,19,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R3,342,CIM-UH_GG_342,Chama ,sp.,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,343,CIM-UH_GG_343,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,344,CIM-UH_GG_344,Conus, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,345,CIM-UH_GG_345,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,346,CIM-UH_GG_346,Crassinella lunulata,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GG,GG_GG04R3,347,CIM-UH_GG_347,Crassispira ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,348,CIM-UH_GG_348,Eoacmaea pustulata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,349,CIM-UH_GG_349,Eulithidium bellum,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,350,CIM-UH_GG_350,Eulithidium, sp.,29,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,351,CIM-UH_GG_351,Falsuszafrona pulchella,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,352,CIM-UH_GG_352,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R3,353,CIM-UH_GG_353,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GG,GG_GG04R3,354,CIM-UH_GG_354,Gibberula ,spp.,3,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,355,CIM-UH_GG_355,Heliacus cylindricus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,356,CIM-UH_GG_356,Iniforis turristhomae,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,357,CIM-UH_GG_357,Intelcystiscus, sp.,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,358,CIM-UH_GG_358,Isotriphora taenialba,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,359,CIM-UH_GG_359,Latitriphora albida,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,360,CIM-UH_GG_360,Marshallora modesta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,361,CIM-UH_GG_361,Megalomphalus pilsbryi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,362,CIM-UH_GG_362,Meioceras cornucopiae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,363,CIM-UH_GG_363,Meioceras cubitatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,364,CIM-UH_GG_364,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,365,CIM-UH_GG_365,Metaxia excelsa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,366,CIM-UH_GG_366,Mitrella antares,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,367,CIM-UH_GG_367,Mitromorpha erycinella,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,368,CIM-UH_GG_368,Monophorus olivaceus,,3,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,369,CIM-UH_GG_369,Mumiola gradatula,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,370,CIM-UH_GG_370,Nototriphora decorata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,371,CIM-UH_GG_371,Osvaldoginella gomezi,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,372,CIM-UH_GG_372,Parvilucina ,spp.,2,Bivalvia,Chemosymbiont,Benthic,coral reef
+GG,GG_GG04R3,373,CIM-UH_GG_373,Pseudopusula antillarum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,374,CIM-UH_GG_374,Pseudostomatella erythrocoma,,3,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,375,CIM-UH_GG_375,Pyramidella dolabrata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,376,CIM-UH_GG_376,Rissoina vanderspoeli,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,377,CIM-UH_GG_377,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,378,CIM-UH_GG_378,Turbo cailletii,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,379,CIM-UH_GG_379,Turbonilla pupoides,,4,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,380,CIM-UH_GG_380,Vanikoro sulcatus,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,381,CIM-UH_GG_381,Vexillum dermestinum,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,382,CIM-UH_GG_382,Vexillum sykesi,,2,Gastropoda,Carnivores,Benthic,coral reef
+GG,GG_GG04R3,383,CIM-UH_GG_383,Vitrinella aristata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,384,CIM-UH_GG_384,Zebina ,spp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG04R3,385,CIM-UH_GG_385,Zebina vitrea,,1,Gastropoda,Herbivores,Benthic,coral reef
+GG,GG_GG05R1,386,CIM-UH_GG_386,Agathistoma fasciatum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,387,CIM-UH_GG_387,Alvania auberiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,388,CIM-UH_GG_388,Americardia guppyi,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,389,CIM-UH_GG_389,Ameritella consobrina,,3,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG05R1,390,CIM-UH_GG_390,Ameritella sybaritica,,3,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG05R1,391,CIM-UH_GG_391,Anodontia alba,,13,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,392,CIM-UH_GG_392,Atlantilux exigua,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,393,CIM-UH_GG_393,Atys, spp.,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,394,CIM-UH_GG_394,Bulla occidentalis,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,395,CIM-UH_GG_395,Callucina keenae,,14,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,396,CIM-UH_GG_396,Cardiomya costellata,,1,Bivalvia,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,397,CIM-UH_GG_397,Carditopsis bernardi,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,398,CIM-UH_GG_398,Carditopsis smithii,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,399,CIM-UH_GG_399,Cerithium eburneum,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG05R1,400,CIM-UH_GG_400,Clathrolucina costata,,10,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,401,CIM-UH_GG_401,Crenella divaricata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,402,CIM-UH_GG_402,Ctena, spp.,28,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,403,CIM-UH_GG_403,Curveulima ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,404,CIM-UH_GG_404,Cylichnella bidentata,,21,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,405,CIM-UH_GG_405,Diplodonta ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,406,CIM-UH_GG_406,Eoacmaea pustulata,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,407,CIM-UH_GG_407,Epicodakia filiata,,18,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,408,CIM-UH_GG_408,Eulithidium adamsi,,8,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,409,CIM-UH_GG_409,Eulithidium bellum,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,410,CIM-UH_GG_410,Eulithidium, sp.,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,411,CIM-UH_GG_411,Eulithidium thalassicola,,9,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,412,CIM-UH_GG_412,Gouldia cerina,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,413,CIM-UH_GG_413,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,414,CIM-UH_GG_414,Microeulima hemphillii,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,415,CIM-UH_GG_415,Musculus lateralis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,416,CIM-UH_GG_416,Orobitella floridana,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,417,CIM-UH_GG_417,Parvilucina ,spp.,78,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R1,418,CIM-UH_GG_418,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,419,CIM-UH_GG_419,Phrontis antillarum,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,420,CIM-UH_GG_420,Siratus formosus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R1,421,CIM-UH_GG_421,Smaragdia viridis,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,422,CIM-UH_GG_422,Tampaella mera,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG05R1,423,CIM-UH_GG_423,Trochomodulus carchedonius,,5,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R1,424,CIM-UH_GG_424,Vermicularia spirata,,1,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R1,425,CIM-UH_GG_425,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,426,CIM-UH_GG_426,Alvania auberiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,427,CIM-UH_GG_427,Ameritella consobrina,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG05R2,428,CIM-UH_GG_428,Amphithalamus vallei,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,429,CIM-UH_GG_429,Antalis antillarum,,2,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,430,CIM-UH_GG_430,Atys, spp.,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,431,CIM-UH_GG_431,Bacteridium bermudense,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,432,CIM-UH_GG_432,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,433,CIM-UH_GG_433,Callucina keenae,,3,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R2,434,CIM-UH_GG_434,Cardiomya costellata,,2,Bivalvia,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,435,CIM-UH_GG_435,Carditopsis bernardi,,6,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,436,CIM-UH_GG_436,Carditopsis smithii,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,437,CIM-UH_GG_437,Clathrolucina costata,,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R2,438,CIM-UH_GG_438,Ctena, spp.,10,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R2,439,CIM-UH_GG_439,Cylichnella bidentata,,6,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,440,CIM-UH_GG_440,Diplodonta notata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,441,CIM-UH_GG_441,Eoacmaea pustulata,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,442,CIM-UH_GG_442,Eulithidium adamsi,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,443,CIM-UH_GG_443,Eulithidium bellum,,5,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,444,CIM-UH_GG_444,Eulithidium, sp.,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,445,CIM-UH_GG_445,Eulithidium thalassicola,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,446,CIM-UH_GG_446,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG05R2,447,CIM-UH_GG_447,Granulina antillensis,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,448,CIM-UH_GG_448,Haminoea ,sp.,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,449,CIM-UH_GG_449,Laevicardium ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,450,CIM-UH_GG_450,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,451,CIM-UH_GG_451,Mitromica foveata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R2,452,CIM-UH_GG_452,Parvilucina ,spp.,33,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R2,453,CIM-UH_GG_453,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,454,CIM-UH_GG_454,Planktomya henseni,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,455,CIM-UH_GG_455,Pseudostomatella erythrocoma,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,456,CIM-UH_GG_456,Schwartziella fischeri,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,457,CIM-UH_GG_457,Tomura bicaudata,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,458,CIM-UH_GG_458,Trochomodulus carchedonius,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R2,459,CIM-UH_GG_459,Vermicularia spirata,,1,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R2,460,CIM-UH_GG_460,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,461,CIM-UH_GG_461,Abra ,sp.,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG05R3,462,CIM-UH_GG_462,Acteocina lepta,,6,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,463,CIM-UH_GG_463,Agathistoma fasciatum,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,464,CIM-UH_GG_464,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,465,CIM-UH_GG_465,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,466,CIM-UH_GG_466,Alvania auberiana,,13,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,467,CIM-UH_GG_467,Americardia guppyi,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,468,CIM-UH_GG_468,Anodontia alba,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,469,CIM-UH_GG_469,Antalis antillarum,,9,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,470,CIM-UH_GG_470,Argopecten ,sp.,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,471,CIM-UH_GG_471,Atlantilux exigua,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,472,CIM-UH_GG_472,Atys caribaeus,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,473,CIM-UH_GG_473,Barbatia domingensis,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,474,CIM-UH_GG_474,Bostrycapulus aculeatus,,2,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,475,CIM-UH_GG_475,Caecum plicatum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,476,CIM-UH_GG_476,Calliostoma pulchrum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,477,CIM-UH_GG_477,Carditopsis bernardi,,21,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,478,CIM-UH_GG_478,Carditopsis smithii,,12,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,479,CIM-UH_GG_479,Cerithium eburneum,,8,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG05R3,480,CIM-UH_GG_480,Chione cancellata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,481,CIM-UH_GG_481,Clathrolucina costata,,6,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,482,CIM-UH_GG_482,Crassinella lunulata,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,483,CIM-UH_GG_483,Crassispira ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,484,CIM-UH_GG_484,Crenella decussata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,485,CIM-UH_GG_485,Ctena orbiculata,,101,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,486,CIM-UH_GG_486,Cylichnella bidentata,,6,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,487,CIM-UH_GG_487,Diplodonta ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,488,CIM-UH_GG_488,Eoacmaea pustulata,,14,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,489,CIM-UH_GG_489,Epicodakia filiata,,18,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,490,CIM-UH_GG_490,Eulithidium adamsi,,12,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,491,CIM-UH_GG_491,Eulithidium bellum,,21,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,492,CIM-UH_GG_492,Eulithidium thalassicola,,14,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,493,CIM-UH_GG_493,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG05R3,494,CIM-UH_GG_494,Gouldia cerina,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,495,CIM-UH_GG_495,Granulina ovuliformis,,10,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,496,CIM-UH_GG_496,Haminoea elegans,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,497,CIM-UH_GG_497,Japonactaeon punctostriatus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,498,CIM-UH_GG_498,Lithopoma phoebium,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,499,CIM-UH_GG_499,Lucina ,sp.,3,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,500,CIM-UH_GG_500,Meioceras nitidum,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,501,CIM-UH_GG_501,Musculus lateralis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,502,CIM-UH_GG_502,Nassarius paucicostatus,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,503,CIM-UH_GG_503,Parvilucina ,spp.,6,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG05R3,504,CIM-UH_GG_504,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,505,CIM-UH_GG_505,Phosinella redferni,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,506,CIM-UH_GG_506,Polyschides tetrodon,,1,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,507,CIM-UH_GG_507,Prunum ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,508,CIM-UH_GG_508,Pseudostomatella erythrocoma,,13,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,509,CIM-UH_GG_509,Suturoglypta ,spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,510,CIM-UH_GG_510,Tenaturris bartlettii,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,511,CIM-UH_GG_511,Trochomodulus carchedonius,,11,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,512,CIM-UH_GG_512,Turbo cailletii,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG05R3,513,CIM-UH_GG_513,Turbonilla ornata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,514,CIM-UH_GG_514,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG05R3,515,CIM-UH_GG_515,Vermicularia spirata,,4,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG05R3,516,CIM-UH_GG_516,Zebina browniana,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,517,CIM-UH_GG_517,Agathistoma hotessierianum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,518,CIM-UH_GG_518,Americardia media,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,519,CIM-UH_GG_519,Anadara notabilis,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,520,CIM-UH_GG_520,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,521,CIM-UH_GG_521,Atlantilux exigua,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,522,CIM-UH_GG_522,Barbatia domingensis,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,523,CIM-UH_GG_523,Barleeia ,spp.,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,524,CIM-UH_GG_524,Bulla occidentalis,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,525,CIM-UH_GG_525,Caecum donmoorei,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,526,CIM-UH_GG_526,Cerithiopsis albovittata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,527,CIM-UH_GG_527,Cerithiopsis, spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,528,CIM-UH_GG_528,Cerithium eburneum,,8,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R1,529,CIM-UH_GG_529,Codakia orbicularis,,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R1,530,CIM-UH_GG_530,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,531,CIM-UH_GG_531,Curveulima ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,532,CIM-UH_GG_532,Cycloscala echinaticosta,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,533,CIM-UH_GG_533,Eatonina maickeli,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,534,CIM-UH_GG_534,Eulithidium adamsi,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,535,CIM-UH_GG_535,Eulithidium thalassicola,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,536,CIM-UH_GG_536,Finella adamsi,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R1,537,CIM-UH_GG_537,Finella dubia,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R1,538,CIM-UH_GG_538,Gouldia cerina,,30,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,539,CIM-UH_GG_539,Haminoea elegans,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,540,CIM-UH_GG_540,Parvilucina ,spp.,58,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R1,541,CIM-UH_GG_541,Phrontis hotessieriana,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,542,CIM-UH_GG_542,Pitar fulminatus,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R1,543,CIM-UH_GG_543,Pseudostomatella erythrocoma,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,544,CIM-UH_GG_544,Steironepion minus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,545,CIM-UH_GG_545,Tellina radiata,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG06R1,546,CIM-UH_GG_546,Triphora ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,547,CIM-UH_GG_547,Trochomodulus carchedonius,,9,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R1,548,CIM-UH_GG_548,Turbonilla ,spp.,3,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R1,549,CIM-UH_GG_549,Vermicularia spirata,,14,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,550,CIM-UH_GG_550,Alvania auberiana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,551,CIM-UH_GG_551,Amphithalamus vallei,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,552,CIM-UH_GG_552,Bacteridium bermudense,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R2,553,CIM-UH_GG_553,Barbatia domingensis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,554,CIM-UH_GG_554,Bostrycapulus aculeatus,,1,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,555,CIM-UH_GG_555,Cerithium eburneum,,5,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R2,556,CIM-UH_GG_556,Chione cancellata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,557,CIM-UH_GG_557,Clathrolucina costata,,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R2,558,CIM-UH_GG_558,Eulithidium adamsi,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,559,CIM-UH_GG_559,Eulithidium thalassicola,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,560,CIM-UH_GG_560,Finella adamsi,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R2,561,CIM-UH_GG_561,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R2,562,CIM-UH_GG_562,Gouldia cerina,,18,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,563,CIM-UH_GG_563,Granulina antillensis,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R2,564,CIM-UH_GG_564,Meioceras cornucopiae,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,565,CIM-UH_GG_565,Meioceras nitidum,,5,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,566,CIM-UH_GG_566,Parvilucina ,spp.,59,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R2,567,CIM-UH_GG_567,Steironepion minus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R2,568,CIM-UH_GG_568,Trochomodulus carchedonius,,5,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R2,569,CIM-UH_GG_569,Vermicularia spirata,,5,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R2,570,CIM-UH_GG_570,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,571,CIM-UH_GG_571,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,572,CIM-UH_GG_572,Alvania auberiana,,5,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,573,CIM-UH_GG_573,Americardia media,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,574,CIM-UH_GG_574,Antalis antillarum,,1,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,575,CIM-UH_GG_575,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,576,CIM-UH_GG_576,Arcopsis adamsi,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,577,CIM-UH_GG_577,Argopecten gibbus,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,578,CIM-UH_GG_578,Atlantilux exigua,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,579,CIM-UH_GG_579,Barbatia domingensis,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,580,CIM-UH_GG_580,Bittiolum varium,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,581,CIM-UH_GG_581,Bulla occidentalis,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,582,CIM-UH_GG_582,Cerithiopsis, spp.,3,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,583,CIM-UH_GG_583,Cerithium eburneum,,14,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R3,584,CIM-UH_GG_584,Chione cancellata,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,585,CIM-UH_GG_585,Clathrolucina costata,,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R3,586,CIM-UH_GG_586,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,587,CIM-UH_GG_587,Eoacmaea pustulata,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,588,CIM-UH_GG_588,Eulima bifasciata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,589,CIM-UH_GG_589,Eulithidium thalassicola,,14,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,590,CIM-UH_GG_590,Finella adamsi,,6,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG06R3,591,CIM-UH_GG_591,Gouldia cerina,,18,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,592,CIM-UH_GG_592,Granulina antillensis,,7,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,593,CIM-UH_GG_593,Lithopoma phoebium,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,594,CIM-UH_GG_594,Meioceras nitidum,,22,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,595,CIM-UH_GG_595,Microeulima hemphillii,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG06R3,596,CIM-UH_GG_596,Montfortia emarginata,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,597,CIM-UH_GG_597,Musculus lateralis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,598,CIM-UH_GG_598,Parvilucina ,spp.,118,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG06R3,599,CIM-UH_GG_599,Phosinella sagraiana,,6,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,600,CIM-UH_GG_600,Pitar, sp.,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,601,CIM-UH_GG_601,Pseudostomatella erythrocoma,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,602,CIM-UH_GG_602,Trochomodulus carchedonius,,11,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,603,CIM-UH_GG_603,Turbo castanea,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG06R3,604,CIM-UH_GG_604,Vermicularia spirata,,9,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG06R3,605,CIM-UH_GG_605,Volvulella ischnatracta,,2,Gastropoda,Deposit feeder,Benthic,seagrass
+GG,GG_GG06R3,606,CIM-UH_GG_606,Zebina browniana,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,607,CIM-UH_GG_607,Alvania auberiana,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,608,CIM-UH_GG_608,Americardia guppyi,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,609,CIM-UH_GG_609,Americardia media,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,610,CIM-UH_GG_610,Amphithalamus vallei,,17,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,611,CIM-UH_GG_611,Arcopsis adamsi,,10,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,612,CIM-UH_GG_612,Barbatia domingensis,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,613,CIM-UH_GG_613,Bulla occidentalis,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,614,CIM-UH_GG_614,Carditopsis smithii,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,615,CIM-UH_GG_615,Cerithium eburneum,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG09R1,616,CIM-UH_GG_616,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,617,CIM-UH_GG_617,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,618,CIM-UH_GG_618,Crepidula navicula,,1,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,619,CIM-UH_GG_619,Diodora cayenensis,,2,Gastropoda,Herbivores/Carnivores,Benthic,seagrass
+GG,GG_GG09R1,620,CIM-UH_GG_620,Eatonina maickeli,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,621,CIM-UH_GG_621,Eulithidium thalassicola,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,622,CIM-UH_GG_622,Gouldia cerina,,7,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,623,CIM-UH_GG_623,Granulina antillensis,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R1,624,CIM-UH_GG_624,Hemimarginula pumila,,1,Gastropoda,Herbivores/Carnivores,Benthic,seagrass
+GG,GG_GG09R1,625,CIM-UH_GG_625,Hyalina ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R1,626,CIM-UH_GG_626,Laevicardium serratum,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,627,CIM-UH_GG_627,Limaria pellucida,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,628,CIM-UH_GG_628,Meioceras nitidum,,6,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,629,CIM-UH_GG_629,Musculus lateralis,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R1,630,CIM-UH_GG_630,Odostomia laevigata,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R1,631,CIM-UH_GG_631,Parvilucina ,spp.,54,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG09R1,632,CIM-UH_GG_632,Phosinella redferni,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,633,CIM-UH_GG_633,Phosinella sagraiana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,634,CIM-UH_GG_634,Pseudostomatella erythrocoma,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,635,CIM-UH_GG_635,Trochomodulus carchedonius,,8,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,636,CIM-UH_GG_636,Turbo cailletii,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R1,637,CIM-UH_GG_637,Vitreolina arcuata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R1,638,CIM-UH_GG_638,Vitrinella ,sp.,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,639,CIM-UH_GG_639,Agathistoma fasciatum,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,640,CIM-UH_GG_640,Alvania auberiana,,13,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,641,CIM-UH_GG_641,Amphithalamus vallei,,18,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,642,CIM-UH_GG_642,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,643,CIM-UH_GG_643,Arcopsis adamsi,,33,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,644,CIM-UH_GG_644,Atys, spp.,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,645,CIM-UH_GG_645,Barbatia candida,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,646,CIM-UH_GG_646,Barbatia domingensis,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,647,CIM-UH_GG_647,Bostrycapulus aculeatus,,1,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,648,CIM-UH_GG_648,Caecum circumvolutum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,649,CIM-UH_GG_649,Caecum donmoorei,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,650,CIM-UH_GG_650,Carditopsis bernardi,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,651,CIM-UH_GG_651,Cerithiopsis academicorum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,652,CIM-UH_GG_652,Cerithiopsis lata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,653,CIM-UH_GG_653,Cerithiopsis, spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,654,CIM-UH_GG_654,Cerithium eburneum,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG09R2,655,CIM-UH_GG_655,Cerithium litteratum,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG09R2,656,CIM-UH_GG_656,Chama ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,657,CIM-UH_GG_657,Chione cancellata,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,658,CIM-UH_GG_658,Clathrolucina costata,,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG09R2,659,CIM-UH_GG_659,Conus, sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,660,CIM-UH_GG_660,Crassinella dupliniana,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,661,CIM-UH_GG_661,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,662,CIM-UH_GG_662,Ctena imbricatula,,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG09R2,663,CIM-UH_GG_663,Cyclostremiscus cubanus,,1,Gastropoda,Deposit feeder,Benthic,seagrass
+GG,GG_GG09R2,664,CIM-UH_GG_664,Dentimargo, sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,665,CIM-UH_GG_665,Diodora viridula,,1,Gastropoda,Herbivores/Carnivores,Benthic,seagrass
+GG,GG_GG09R2,666,CIM-UH_GG_666,Eatonina maickeli,,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,667,CIM-UH_GG_667,Eulima bilineata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,668,CIM-UH_GG_668,Eulithidium adamsi,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,669,CIM-UH_GG_669,Eulithidium thalassicola,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,670,CIM-UH_GG_670,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,671,CIM-UH_GG_671,Gouldia cerina,,22,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,672,CIM-UH_GG_672,Granulina antillensis,,6,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,673,CIM-UH_GG_673,Haminoea antillarum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,674,CIM-UH_GG_674,Haminoea elegans,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,675,CIM-UH_GG_675,Japonactaeon punctostriatus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,676,CIM-UH_GG_676,Lamarcka imbricata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,677,CIM-UH_GG_677,Lindapecten muscosus,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,678,CIM-UH_GG_678,Lithopoma phoebium,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,679,CIM-UH_GG_679,Meioceras nitidum,,11,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,680,CIM-UH_GG_680,Merisca ,sp.,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG09R2,681,CIM-UH_GG_681,Montfortia emarginata,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,682,CIM-UH_GG_682,Musculus lateralis,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,683,CIM-UH_GG_683,Parvilucina ,spp.,121,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG09R2,684,CIM-UH_GG_684,Periglypta listeri,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,685,CIM-UH_GG_685,Phosinella redferni,,13,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,686,CIM-UH_GG_686,Phrontis antillarum,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,687,CIM-UH_GG_687,Pitar, sp.,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,688,CIM-UH_GG_688,Prunum ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG09R2,689,CIM-UH_GG_689,Pseudostomatella erythrocoma,,6,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,690,CIM-UH_GG_690,Schwartziella fischeri,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,691,CIM-UH_GG_691,Trochomodulus carchedonius,,10,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,692,CIM-UH_GG_692,Turbo castanea,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG09R2,693,CIM-UH_GG_693,Vermicularia spirata,,3,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG09R2,694,CIM-UH_GG_694,Volvarina albolineata,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,695,CIM-UH_GG_695,Agathistoma fasciatum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,696,CIM-UH_GG_696,Alvania auberiana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,697,CIM-UH_GG_697,Americardia guppyi,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,698,CIM-UH_GG_698,Antalis cerata,,1,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,699,CIM-UH_GG_699,Antillipecten antillarum,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,700,CIM-UH_GG_700,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,701,CIM-UH_GG_701,Caecum plicatum,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,702,CIM-UH_GG_702,Calliostoma javanicum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,703,CIM-UH_GG_703,Cerithiopsis movilla,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,704,CIM-UH_GG_704,Cerithiopsis, spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,705,CIM-UH_GG_705,Cerithium eburneum,,12,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R1,706,CIM-UH_GG_706,Crassispira ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,707,CIM-UH_GG_707,Ctena, spp.,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG14R1,708,CIM-UH_GG_708,Dentalium ,sp.,1,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,709,CIM-UH_GG_709,Dentimargo, sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,710,CIM-UH_GG_710,Eulimastoma ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,711,CIM-UH_GG_711,Eulithidium affine,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,712,CIM-UH_GG_712,Eulithidium bellum,,18,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,713,CIM-UH_GG_713,Eulithidium, sp.,3,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,714,CIM-UH_GG_714,Eulithidium thalassicola,,8,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,715,CIM-UH_GG_715,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R1,716,CIM-UH_GG_716,Finella dubia,,6,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R1,717,CIM-UH_GG_717,Gibberula fluctuata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,718,CIM-UH_GG_718,Gouldia cerina,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,719,CIM-UH_GG_719,Laevicardium serratum,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,720,CIM-UH_GG_720,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,721,CIM-UH_GG_721,Mitromica foveata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,722,CIM-UH_GG_722,Nassarius ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,723,CIM-UH_GG_723,Odostomia laevigata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,724,CIM-UH_GG_724,Parvilucina ,spp.,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG14R1,725,CIM-UH_GG_725,Phosinella redferni,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,726,CIM-UH_GG_726,Pitar fulminatus,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,727,CIM-UH_GG_727,Pseudostomatella erythrocoma,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,728,CIM-UH_GG_728,Rissoina dyscrita,,6,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,729,CIM-UH_GG_729,Rissoina krebsii,,9,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,730,CIM-UH_GG_730,Seila adamsii,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,731,CIM-UH_GG_731,Smaragdia viridis,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,732,CIM-UH_GG_732,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,733,CIM-UH_GG_733,Trochomodulus carchedonius,,9,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,734,CIM-UH_GG_734,Turbo cailletii,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R1,735,CIM-UH_GG_735,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R1,736,CIM-UH_GG_736,Vermicularia spirata,,44,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R1,737,CIM-UH_GG_737,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,738,CIM-UH_GG_738,Acteocina candei,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,739,CIM-UH_GG_739,Acteocina ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,740,CIM-UH_GG_740,Agathistoma fasciatum,,6,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,741,CIM-UH_GG_741,Americardia guppyi,,6,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,742,CIM-UH_GG_742,Amphithalamus vallei,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,743,CIM-UH_GG_743,Antalis antillarum,,2,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,744,CIM-UH_GG_744,Atys, spp.,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,745,CIM-UH_GG_745,Caecum plicatum,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,746,CIM-UH_GG_746,Carditopsis smithii,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,747,CIM-UH_GG_747,Cerithiopsis singularis,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,748,CIM-UH_GG_748,Cerithiopsis, spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,749,CIM-UH_GG_749,Cerithium eburneum,,20,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R2,750,CIM-UH_GG_750,Cerithium litteratum,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R2,751,CIM-UH_GG_751,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,752,CIM-UH_GG_752,Clathrolucina costata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG14R2,753,CIM-UH_GG_753,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,754,CIM-UH_GG_754,Crenella decussata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,755,CIM-UH_GG_755,Dentalium ,sp.,1,Scaphopoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,756,CIM-UH_GG_756,Dentimargo claroi,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,757,CIM-UH_GG_757,Ervilia nitens,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,758,CIM-UH_GG_758,Eulima ,sp.,3,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,759,CIM-UH_GG_759,Eulithidium bellum,,25,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,760,CIM-UH_GG_760,Eulithidium, sp.,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,761,CIM-UH_GG_761,Eulithidium thalassicola,,18,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,762,CIM-UH_GG_762,Falsuszafrona pulchella,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,763,CIM-UH_GG_763,Finella adamsi,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R2,764,CIM-UH_GG_764,Finella dubia,,5,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GG,GG_GG14R2,765,CIM-UH_GG_765,Gibberula ,spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,766,CIM-UH_GG_766,Glycymeris decussata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,767,CIM-UH_GG_767,Gouldia cerina,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,768,CIM-UH_GG_768,Lindapecten muscosus,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,769,CIM-UH_GG_769,Marginellopsis serrei,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,770,CIM-UH_GG_770,Marshallora modesta,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,771,CIM-UH_GG_771,Nassarius ,spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,772,CIM-UH_GG_772,Odostomia laevigata,,2,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,773,CIM-UH_GG_773,Parvilucina ,spp.,8,Bivalvia,Chemosymbiont,Benthic,seagrass
+GG,GG_GG14R2,774,CIM-UH_GG_774,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,775,CIM-UH_GG_775,Phosinella redferni,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,776,CIM-UH_GG_776,Pitar fulminatus,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,777,CIM-UH_GG_777,Pseudostomatella erythrocoma,,1,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,778,CIM-UH_GG_778,Rissoina dyscrita,,4,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,779,CIM-UH_GG_779,Scissula similis,,2,Bivalvia,Deposit feeder,Benthic,seagrass
+GG,GG_GG14R2,780,CIM-UH_GG_780,Seila adamsii,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,781,CIM-UH_GG_781,Steironepion moniliferum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,782,CIM-UH_GG_782,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,783,CIM-UH_GG_783,Trochomodulus carchedonius,,7,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,784,CIM-UH_GG_784,Tucetona subtilis,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,785,CIM-UH_GG_785,Turbo cailletii,,2,Gastropoda,Herbivores,Benthic,seagrass
+GG,GG_GG14R2,786,CIM-UH_GG_786,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GG,GG_GG14R2,787,CIM-UH_GG_787,Vermicularia spirata,,44,Gastropoda,Suspension feeder,Benthic,seagrass
+GG,GG_GG14R2,788,CIM-UH_GG_788,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB09R1,789,CIM-UH_GB_789,Acteocina candei,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,790,CIM-UH_GB_790,Acteocina lepta,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,791,CIM-UH_GB_791,Agathistoma fasciatum,,11,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,792,CIM-UH_GB_792,Agathotoma candidissima,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,793,CIM-UH_GB_793,Agathotoma ecthymata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,794,CIM-UH_GB_794,Agathotoma kirshi,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,795,CIM-UH_GB_795,Ailinzebina elegantissima,,20,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,796,CIM-UH_GB_796,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,797,CIM-UH_GB_797,Alvania auberiana,,39,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,798,CIM-UH_GB_798,Alvania debruynei,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,799,CIM-UH_GB_799,Alvania turkensis,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,800,CIM-UH_GB_800,Americardia guppyi,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,801,CIM-UH_GB_801,Americardia media,,8,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,802,CIM-UH_GB_802,Antalis antillarum,,18,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,803,CIM-UH_GB_803,Antillipecten antillarum,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,804,CIM-UH_GB_804,Arcopsis adamsi,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,805,CIM-UH_GB_805,Astyris ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,806,CIM-UH_GB_806,Atlanta peronii,,2,Gastropoda,Carnivores,Pelagic,coral reef
+GB,GB_GB09R1,807,CIM-UH_GB_807,Atys caribaeus,,18,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,808,CIM-UH_GB_808,Barbatia domingensis,,24,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,809,CIM-UH_GB_809,Barleeia ,spp.,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,810,CIM-UH_GB_810,Brachidontes exustus,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,811,CIM-UH_GB_811,Bulla occidentalis,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,812,CIM-UH_GB_812,Caecum antillarum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,813,CIM-UH_GB_813,Caecum circumvolutum,,8,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,814,CIM-UH_GB_814,Caecum floridanum,,10,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,815,CIM-UH_GB_815,Caecum imbricatum,,16,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,816,CIM-UH_GB_816,Caecum regulare,,32,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,817,CIM-UH_GB_817,Calliostoma barbouri,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,818,CIM-UH_GB_818,Calliostoma pulchrum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,819,CIM-UH_GB_819,Carditopsis smithii,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,820,CIM-UH_GB_820,Caribachlamys ornata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,821,CIM-UH_GB_821,Cerithiopsis academicorum,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,822,CIM-UH_GB_822,Cerithiopsis albovittata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,823,CIM-UH_GB_823,Cerithiopsis ,cf. iontha,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,824,CIM-UH_GB_824,Cerithiopsis flava,,11,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,825,CIM-UH_GB_825,Cerithiopsis gemmulosa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,826,CIM-UH_GB_826,Cerithiopsis io,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,827,CIM-UH_GB_827,Cerithiopsis lata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,828,CIM-UH_GB_828,Cerithium eburneum,,8,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,829,CIM-UH_GB_829,Cerithium litteratum,,17,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,830,CIM-UH_GB_830,Clathrolucina costata,,4,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R1,831,CIM-UH_GB_831,Columbella mercatoria,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,832,CIM-UH_GB_832,Compressidens wellsiana,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,833,CIM-UH_GB_833,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,834,CIM-UH_GB_834,Coriophora novem,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,835,CIM-UH_GB_835,Crassinella lunulata,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,836,CIM-UH_GB_836,Crassispira flavocincta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,837,CIM-UH_GB_837,Ctena, spp.,4,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R1,838,CIM-UH_GB_838,Cubalaskeya nivea,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,839,CIM-UH_GB_839,Cyclostremella ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,840,CIM-UH_GB_840,Diacavolinia deblainvillei,,12,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R1,841,CIM-UH_GB_841,Eoacmaea pustulata,,15,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,842,CIM-UH_GB_842,Ervilia nitens,,7,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,843,CIM-UH_GB_843,Eulimostraca armonica,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,844,CIM-UH_GB_844,Eulimostraca encalada,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,845,CIM-UH_GB_845,Eulithidium bellum,,16,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,846,CIM-UH_GB_846,Eulithidium, sp.,78,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,847,CIM-UH_GB_847,Eutriphora bermudensis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,848,CIM-UH_GB_848,Falsuszafrona idalina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,849,CIM-UH_GB_849,Falsuszafrona pulchella,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,850,CIM-UH_GB_850,Finella adamsi,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,851,CIM-UH_GB_851,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,852,CIM-UH_GB_852,Gadila dominguensis,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,853,CIM-UH_GB_853,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,854,CIM-UH_GB_854,Granulina antillensis,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,855,CIM-UH_GB_855,Haminoea elegans,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,856,CIM-UH_GB_856,Heliconoides inflatus,,1,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R1,857,CIM-UH_GB_857,Hemiliostraca auricincta,,15,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,858,CIM-UH_GB_858,Hemimarginula pumila,,3,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R1,859,CIM-UH_GB_859,Hyalina ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,860,CIM-UH_GB_860,Inbiocystiscus triplicatus,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,861,CIM-UH_GB_861,Intelcystiscus, sp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,862,CIM-UH_GB_862,Ithycythara lanceolata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,863,CIM-UH_GB_863,Laevicardium serratum,,10,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,864,CIM-UH_GB_864,Lima caribaea,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,865,CIM-UH_GB_865,Lioberus castanea,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,866,CIM-UH_GB_866,Marshallora ostenta,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,867,CIM-UH_GB_867,Mathilda scitula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,868,CIM-UH_GB_868,Meioceras cornucopiae,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,869,CIM-UH_GB_869,Meioceras nitidum,,12,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,870,CIM-UH_GB_870,Merisca ,sp.,9,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,871,CIM-UH_GB_871,Metaxia excelsa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,872,CIM-UH_GB_872,Microvoluta blakeana,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,873,CIM-UH_GB_873,Mirarissoina bermudezi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,874,CIM-UH_GB_874,Mitrella nycteis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,875,CIM-UH_GB_875,Monophorus olivaceus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,876,CIM-UH_GB_876,Murchisonella spectrum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,877,CIM-UH_GB_877,Nassarius ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,878,CIM-UH_GB_878,Neotiara nodulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,879,CIM-UH_GB_879,Nototriphora decorata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,880,CIM-UH_GB_880,Nucula proxima,,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,881,CIM-UH_GB_881,Papyridea semisulcata,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,882,CIM-UH_GB_882,Parvilucina ,spp.,5,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R1,883,CIM-UH_GB_883,Parviturbo marcosi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,884,CIM-UH_GB_884,Petricola ,sp.,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,885,CIM-UH_GB_885,Phosinella cancellina,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,886,CIM-UH_GB_886,Phosinella fenestrata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,887,CIM-UH_GB_887,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,888,CIM-UH_GB_888,Phrontis antillarum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,889,CIM-UH_GB_889,Polyschides tetraschistus,,3,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,890,CIM-UH_GB_890,Polyschides tetrodon,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,891,CIM-UH_GB_891,Pseudostomatella erythrocoma,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,892,CIM-UH_GB_892,Retusa sulcata,,10,Gastropoda,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,893,CIM-UH_GB_893,Schwartziella fischeri,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,894,CIM-UH_GB_894,Simulamerelina ,spp.,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,895,CIM-UH_GB_895,Steironepion maculatum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,896,CIM-UH_GB_896,Styliola subula,,3,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R1,897,CIM-UH_GB_897,Tenaturris trilineata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,898,CIM-UH_GB_898,Transennella gerrardi,,9,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,899,CIM-UH_GB_899,Triphora ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,900,CIM-UH_GB_900,Trochomodulus carchedonius,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,901,CIM-UH_GB_901,Turbo cailletii,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,902,CIM-UH_GB_902,Turbonilla pupoides,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,903,CIM-UH_GB_903,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,904,CIM-UH_GB_904,Vermicularia, sp.,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R1,905,CIM-UH_GB_905,Vexillum cubanum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,906,CIM-UH_GB_906,Vexillum sykesi,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,907,CIM-UH_GB_907,Vitreolina maracuya,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,908,CIM-UH_GB_908,Vitreolina, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,909,CIM-UH_GB_909,Volvarina ,spp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R1,910,CIM-UH_GB_910,Volvulella ischnatracta,,1,Gastropoda,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R1,911,CIM-UH_GB_911,Weinkauffia macandrewii,,9,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R1,912,CIM-UH_GB_912,Zebina browniana,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,913,CIM-UH_GB_913,Acteocina candei,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,914,CIM-UH_GB_914,Acteocina lepta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,915,CIM-UH_GB_915,Agathistoma fasciatum,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,916,CIM-UH_GB_916,Ailinzebina elegantissima,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,917,CIM-UH_GB_917,Alvania auberiana,,14,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,918,CIM-UH_GB_918,Americardia guppyi,,5,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,919,CIM-UH_GB_919,Americardia media,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,920,CIM-UH_GB_920,Antalis antillarum,,10,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,921,CIM-UH_GB_921,Antillipecten antillarum,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,922,CIM-UH_GB_922,Atys caribaeus,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,923,CIM-UH_GB_923,Bacteridium bermudense,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,924,CIM-UH_GB_924,Barbatia domingensis,,7,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,925,CIM-UH_GB_925,Barleeia ,spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,926,CIM-UH_GB_926,Botula fusca,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,927,CIM-UH_GB_927,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,928,CIM-UH_GB_928,Caecum circumvolutum,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,929,CIM-UH_GB_929,Caecum floridanum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,930,CIM-UH_GB_930,Caecum imbricatum,,9,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,931,CIM-UH_GB_931,Caecum plicatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,932,CIM-UH_GB_932,Caecum regulare,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,933,CIM-UH_GB_933,Carditopsis smithii,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,934,CIM-UH_GB_934,Cerithiopsis albovittata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,935,CIM-UH_GB_935,Cerithiopsis flava,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,936,CIM-UH_GB_936,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R2,937,CIM-UH_GB_937,Cerithium litteratum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R2,938,CIM-UH_GB_938,Chama ,sp.,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,939,CIM-UH_GB_939,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,940,CIM-UH_GB_940,Clathrolucina costata,,3,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R2,941,CIM-UH_GB_941,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,942,CIM-UH_GB_942,Cumingia antillarum,,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R2,943,CIM-UH_GB_943,Diacavolinia deblainvillei,,5,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R2,944,CIM-UH_GB_944,Diodora minuta,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R2,945,CIM-UH_GB_945,Emarginula phrixodes,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R2,946,CIM-UH_GB_946,Eoacmaea pustulata,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,947,CIM-UH_GB_947,Ervilia nitens,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,948,CIM-UH_GB_948,Eulimostraca ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,949,CIM-UH_GB_949,Eulithidium bellum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,950,CIM-UH_GB_950,Eulithidium, sp.,33,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,951,CIM-UH_GB_951,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R2,952,CIM-UH_GB_952,Gadila dominguensis,,4,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,953,CIM-UH_GB_953,Gibberula ,spp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,954,CIM-UH_GB_954,Granulina antillensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,955,CIM-UH_GB_955,Haplocochlias nunezi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,956,CIM-UH_GB_956,Heliacus cylindricus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,957,CIM-UH_GB_957,Heliconoides inflatus,,1,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R2,958,CIM-UH_GB_958,Hemiliostraca auricincta,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,959,CIM-UH_GB_959,Hemimarginula pumila,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R2,960,CIM-UH_GB_960,Horologica pupa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,961,CIM-UH_GB_961,Hyalina ,cf. egregia,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,962,CIM-UH_GB_962,Iniforis pseudothomae,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,963,CIM-UH_GB_963,Laevicardium serratum,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,964,CIM-UH_GB_964,Lima caribaea,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,965,CIM-UH_GB_965,Lucina pensylvanica,,1,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R2,966,CIM-UH_GB_966,Meioceras cornucopiae,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,967,CIM-UH_GB_967,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,968,CIM-UH_GB_968,Mitrella antares,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,969,CIM-UH_GB_969,Modiolus americanus,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,970,CIM-UH_GB_970,Odostomia laevigata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,971,CIM-UH_GB_971,Papyridea semisulcata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,972,CIM-UH_GB_972,Parvilucina ,spp.,3,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R2,973,CIM-UH_GB_973,Phlyctiderma semiasperum,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,974,CIM-UH_GB_974,Phosinella cancellina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,975,CIM-UH_GB_975,Probata barbadensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,976,CIM-UH_GB_976,Retusa sulcata,,3,Gastropoda,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R2,977,CIM-UH_GB_977,Rissoina hummelincki,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,978,CIM-UH_GB_978,Schwartziella vanpeli,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,979,CIM-UH_GB_979,Simulamerelina ,spp.,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,980,CIM-UH_GB_980,Transennella gerrardi,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,981,CIM-UH_GB_981,Turbonilla pupoides,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,982,CIM-UH_GB_982,Vermicularia, sp.,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R2,983,CIM-UH_GB_983,Vexillum sykesi,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,984,CIM-UH_GB_984,Vitreolina maracuya,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,985,CIM-UH_GB_985,Vitreolina, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R2,986,CIM-UH_GB_986,Weinkauffia macandrewii,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R2,987,CIM-UH_GB_987,Zebina browniana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,988,CIM-UH_GB_988,Acteocina lepta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,989,CIM-UH_GB_989,Acteocina recta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,990,CIM-UH_GB_990,Acteocina ,spp.,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,991,CIM-UH_GB_991,Agathistoma fasciatum,,14,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,992,CIM-UH_GB_992,Ailinzebina elegantissima,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,993,CIM-UH_GB_993,Alvania auberiana,,54,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,994,CIM-UH_GB_994,Alvania ,spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,995,CIM-UH_GB_995,Americardia guppyi,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,996,CIM-UH_GB_996,Americardia media,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,997,CIM-UH_GB_997,Ameritella consobrina,,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,998,CIM-UH_GB_998,Amphithalamus niger,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,999,CIM-UH_GB_999,Antalis antillarum,,27,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1000,CIM-UH_GB_1000,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1001,CIM-UH_GB_1001,Atlantilux exigua,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1002,CIM-UH_GB_1002,Atlantilux gemmata,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1003,CIM-UH_GB_1003,Atys caribaeus,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1004,CIM-UH_GB_1004,Bacteridium bermudense,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1005,CIM-UH_GB_1005,Bacteridium resticulum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1006,CIM-UH_GB_1006,Bacteridium ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1007,CIM-UH_GB_1007,Barbatia domingensis,,10,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1008,CIM-UH_GB_1008,Barleeia ,spp.,13,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1009,CIM-UH_GB_1009,Boonea seminuda,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1010,CIM-UH_GB_1010,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1011,CIM-UH_GB_1011,Caecum ,cf. gurgulio,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1012,CIM-UH_GB_1012,Caecum ,cf. textile,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1013,CIM-UH_GB_1013,Caecum circumvolutum,,24,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1014,CIM-UH_GB_1014,Caecum floridanum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1015,CIM-UH_GB_1015,Caecum imbricatum,,29,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1016,CIM-UH_GB_1016,Caecum laeve,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1017,CIM-UH_GB_1017,Caecum plicatum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1018,CIM-UH_GB_1018,Caecum regulare,,73,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1019,CIM-UH_GB_1019,Cerithiopsis albovittata,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1020,CIM-UH_GB_1020,Cerithiopsis flava,,12,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1021,CIM-UH_GB_1021,Cerithium eburneum,,8,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1022,CIM-UH_GB_1022,Cerithium litteratum,,12,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1023,CIM-UH_GB_1023,Chama ,sp.,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1024,CIM-UH_GB_1024,Chioneryx pygmaea,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1025,CIM-UH_GB_1025,Columbella mercatoria,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1026,CIM-UH_GB_1026,Compressidens wellsiana,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1027,CIM-UH_GB_1027,Coralliophila salebrosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1028,CIM-UH_GB_1028,Cosmotriphora melanura,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1029,CIM-UH_GB_1029,Crassinella lunulata,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1030,CIM-UH_GB_1030,Crassispira flavocincta,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1031,CIM-UH_GB_1031,Ctena imbricatula,,6,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R3,1032,CIM-UH_GB_1032,Ctenoides scaber,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1033,CIM-UH_GB_1033,Cumingia vanhyningi,,5,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1034,CIM-UH_GB_1034,Curveulima ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1035,CIM-UH_GB_1035,Daphnella lymneiformis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1036,CIM-UH_GB_1036,Diacavolinia deblainvillei,,7,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R3,1037,CIM-UH_GB_1037,Diacavolinia deshayesi,,4,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R3,1038,CIM-UH_GB_1038,Eoacmaea pustulata,,26,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1039,CIM-UH_GB_1039,Ervilia nitens,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1040,CIM-UH_GB_1040,Eulimostraca encalada,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1041,CIM-UH_GB_1041,Eulithidium bellum,,13,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1042,CIM-UH_GB_1042,Eulithidium, sp.,82,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1043,CIM-UH_GB_1043,Finella adamsi,,6,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1044,CIM-UH_GB_1044,Granulina antillensis,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1045,CIM-UH_GB_1045,Granulina molinai,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1046,CIM-UH_GB_1046,Haminoea antillarum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1047,CIM-UH_GB_1047,Heliconoides inflatus,,2,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R3,1048,CIM-UH_GB_1048,Hemiliostraca auricincta,,19,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1049,CIM-UH_GB_1049,Hemimarginula pumila,,5,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1050,CIM-UH_GB_1050,Inbiocystiscus triplicatus,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1051,CIM-UH_GB_1051,Intelcystiscus, sp.,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1052,CIM-UH_GB_1052,Laevicardium serratum,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1053,CIM-UH_GB_1053,Lucina pensylvanica,,5,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R3,1054,CIM-UH_GB_1054,Marginellopsis serrei,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1055,CIM-UH_GB_1055,Megalomphalus pilsbryi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1056,CIM-UH_GB_1056,Meioceras cornucopiae,,8,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1057,CIM-UH_GB_1057,Meioceras nitidum,,33,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1058,CIM-UH_GB_1058,Melanella eulimoides,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1059,CIM-UH_GB_1059,Murchisonella spectrum,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1060,CIM-UH_GB_1060,Neotiara nodulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1061,CIM-UH_GB_1061,Octomarginula ostheimerae,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1062,CIM-UH_GB_1062,Papyridea semisulcata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1063,CIM-UH_GB_1063,Parvilucina ,spp.,4,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB09R3,1064,CIM-UH_GB_1064,Phosinella cancellina,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1065,CIM-UH_GB_1065,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1066,CIM-UH_GB_1066,Pitar fulminatus,,14,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1067,CIM-UH_GB_1067,Polyschides tetraschistus,,2,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1068,CIM-UH_GB_1068,Pyramidelloides multicostatus,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1069,CIM-UH_GB_1069,Retusa sulcata,,11,Gastropoda,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1070,CIM-UH_GB_1070,Rissoina hummelincki,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1071,CIM-UH_GB_1071,Sansonia tuberculata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1072,CIM-UH_GB_1072,Schwartziella vanpeli,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1073,CIM-UH_GB_1073,Simulamerelina ,spp.,9,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1074,CIM-UH_GB_1074,Styliola subula,,1,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB09R3,1075,CIM-UH_GB_1075,Tellinella listeri,,2,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB09R3,1076,CIM-UH_GB_1076,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1077,CIM-UH_GB_1077,Turbo cailletii,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB09R3,1078,CIM-UH_GB_1078,Turbonilla pupoides,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1079,CIM-UH_GB_1079,Varicorbula limatula,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB09R3,1080,CIM-UH_GB_1080,Vitreobalcis nutans,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1081,CIM-UH_GB_1081,Vitreolina maracuya,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB09R3,1082,CIM-UH_GB_1082,Zebina browniana,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB10R1,1083,CIM-UH_GB_1083,Acteocina lepta,,4,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1084,CIM-UH_GB_1084,Acteocina ,spp.,4,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1085,CIM-UH_GB_1085,Alaba incerta,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1086,CIM-UH_GB_1086,Alvania ,spp.,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1087,CIM-UH_GB_1087,Americardia guppyi,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1088,CIM-UH_GB_1088,Americardia media,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1089,CIM-UH_GB_1089,Amerycina periscopiana,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1090,CIM-UH_GB_1090,Atys sharpi,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1091,CIM-UH_GB_1091,Brachidontes exustus,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1092,CIM-UH_GB_1092,Caecum regulare,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1093,CIM-UH_GB_1093,Calliostoma pulchrum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1094,CIM-UH_GB_1094,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1095,CIM-UH_GB_1095,Cerithium litteratum,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1096,CIM-UH_GB_1096,Chione cancellata,,16,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1097,CIM-UH_GB_1097,Chioneryx pygmaea,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1098,CIM-UH_GB_1098,Clathrolucina costata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R1,1099,CIM-UH_GB_1099,Codakia orbicularis,,15,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R1,1100,CIM-UH_GB_1100,Ctena, spp.,11,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R1,1101,CIM-UH_GB_1101,Diplodonta notata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1102,CIM-UH_GB_1102,Diplodonta nucleiformis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1103,CIM-UH_GB_1103,Diplodonta punctata,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1104,CIM-UH_GB_1104,Divalinga quadrisulcata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R1,1105,CIM-UH_GB_1105,Eoacmaea pustulata,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1106,CIM-UH_GB_1106,Ervilia nitens,,52,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1107,CIM-UH_GB_1107,Eulithidium bellum,,7,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1108,CIM-UH_GB_1108,Eulithidium, sp.,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1109,CIM-UH_GB_1109,Eulithidium thalassicola,,6,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1110,CIM-UH_GB_1110,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1111,CIM-UH_GB_1111,Finella dubia,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1112,CIM-UH_GB_1112,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1113,CIM-UH_GB_1113,Glycymeris decussata,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1114,CIM-UH_GB_1114,Gouldia cerina,,9,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1115,CIM-UH_GB_1115,Granulina antillensis,,3,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1116,CIM-UH_GB_1116,Hemilepton ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1117,CIM-UH_GB_1117,Jaspidella blanesi,,2,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1118,CIM-UH_GB_1118,Lima caribaea,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1119,CIM-UH_GB_1119,Parvilucina ,spp.,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R1,1120,CIM-UH_GB_1120,Phosinella cancellina,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1121,CIM-UH_GB_1121,Pitar fulminatus,,13,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1122,CIM-UH_GB_1122,Prunum ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1123,CIM-UH_GB_1123,Rissoina dyscrita,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1124,CIM-UH_GB_1124,Scissula similis,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1125,CIM-UH_GB_1125,Semelina nuculoides,,3,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R1,1126,CIM-UH_GB_1126,Smaragdia viridis,,10,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1127,CIM-UH_GB_1127,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R1,1128,CIM-UH_GB_1128,Transennella cubaniana,,13,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R1,1129,CIM-UH_GB_1129,Trochomodulus carchedonius,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1130,CIM-UH_GB_1130,Turbo castanea,,7,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R1,1131,CIM-UH_GB_1131,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1132,CIM-UH_GB_1132,Acteocina lepta,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R2,1133,CIM-UH_GB_1133,Acteocina ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R2,1134,CIM-UH_GB_1134,Agathistoma fasciatum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1135,CIM-UH_GB_1135,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1136,CIM-UH_GB_1136,Alvania auberiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1137,CIM-UH_GB_1137,Americardia guppyi,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1138,CIM-UH_GB_1138,Americardia media,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1139,CIM-UH_GB_1139,Antalis antillarum,,3,Scaphopoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R2,1140,CIM-UH_GB_1140,Caecum regulare,,5,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1141,CIM-UH_GB_1141,Carditopsis smithii,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1142,CIM-UH_GB_1142,Cerithium atratum,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R2,1143,CIM-UH_GB_1143,Cerithium litteratum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R2,1144,CIM-UH_GB_1144,Chione mazyckii,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1145,CIM-UH_GB_1145,Chioneryx pygmaea,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1146,CIM-UH_GB_1146,Codakia orbicularis,,6,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R2,1147,CIM-UH_GB_1147,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1148,CIM-UH_GB_1148,Ctena orbiculata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R2,1149,CIM-UH_GB_1149,Divalinga quadrisulcata,,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R2,1150,CIM-UH_GB_1150,Eoacmaea pustulata,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1151,CIM-UH_GB_1151,Epicodakia filiata,,9,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R2,1152,CIM-UH_GB_1152,Ervilia nitens,,29,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1153,CIM-UH_GB_1153,Eulimostraca ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R2,1154,CIM-UH_GB_1154,Eulithidium adamsi,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1155,CIM-UH_GB_1155,Eulithidium bellum,,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1156,CIM-UH_GB_1156,Eulithidium, sp.,6,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1157,CIM-UH_GB_1157,Gouldia cerina,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1158,CIM-UH_GB_1158,Hemilepton ,sp.,7,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1159,CIM-UH_GB_1159,Laevicardium serratum,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1160,CIM-UH_GB_1160,Limatula regularis,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1161,CIM-UH_GB_1161,Phlyctiderma semiasperum,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1162,CIM-UH_GB_1162,Retusa ,sp.,1,Gastropoda,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R2,1163,CIM-UH_GB_1163,Tellinella listeri,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R2,1164,CIM-UH_GB_1164,Transennella cubaniana,,17,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R2,1165,CIM-UH_GB_1165,Trochomodulus carchedonius,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R2,1166,CIM-UH_GB_1166,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1167,CIM-UH_GB_1167,Acorylus gouldii,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1168,CIM-UH_GB_1168,Acteocina lepta,,3,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1169,CIM-UH_GB_1169,Americardia guppyi,,7,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1170,CIM-UH_GB_1170,Antalis antillarum,,5,Scaphopoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1171,CIM-UH_GB_1171,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1172,CIM-UH_GB_1172,Arene tricarinata,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1173,CIM-UH_GB_1173,Atys caribaeus,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1174,CIM-UH_GB_1174,Bittiolum varium,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1175,CIM-UH_GB_1175,Caecum regulare,,9,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1176,CIM-UH_GB_1176,Calliostoma pulchrum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1177,CIM-UH_GB_1177,Carditopsis smithii,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1178,CIM-UH_GB_1178,Cerithium atratum,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1179,CIM-UH_GB_1179,Cerithium eburneum,,12,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1180,CIM-UH_GB_1180,Cerithium litteratum,,23,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1181,CIM-UH_GB_1181,Chione cancellata,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1182,CIM-UH_GB_1182,Chione mazyckii,,15,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1183,CIM-UH_GB_1183,Chioneryx pygmaea,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1184,CIM-UH_GB_1184,Clathrolucina costata,,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1185,CIM-UH_GB_1185,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1186,CIM-UH_GB_1186,Ctena orbiculata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1187,CIM-UH_GB_1187,Ctena, spp.,18,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1188,CIM-UH_GB_1188,Cumingia vanhyningi,,3,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1189,CIM-UH_GB_1189,Diplodonta notata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1190,CIM-UH_GB_1190,Diplodonta punctata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1191,CIM-UH_GB_1191,Divalinga quadrisulcata,,4,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1192,CIM-UH_GB_1192,Eoacmaea pustulata,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1193,CIM-UH_GB_1193,Epicodakia filiata,,20,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1194,CIM-UH_GB_1194,Ervilia nitens,,106,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1195,CIM-UH_GB_1195,Eulithidium adamsi,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1196,CIM-UH_GB_1196,Eulithidium bellum,,12,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1197,CIM-UH_GB_1197,Eulithidium, sp.,16,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1198,CIM-UH_GB_1198,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1199,CIM-UH_GB_1199,Gouldia cerina,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1200,CIM-UH_GB_1200,Granulina antillensis,,3,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1201,CIM-UH_GB_1201,Marginellopsis serrei,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1202,CIM-UH_GB_1202,Modulus modulus,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1203,CIM-UH_GB_1203,Nucula proxima,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1204,CIM-UH_GB_1204,Parvilucina ,spp.,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB10R3,1205,CIM-UH_GB_1205,Phlyctiderma semiasperum,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1206,CIM-UH_GB_1206,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1207,CIM-UH_GB_1207,Phrontis antillarum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1208,CIM-UH_GB_1208,Pitar fulminatus,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1209,CIM-UH_GB_1209,Scissula similis,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB10R3,1210,CIM-UH_GB_1210,Smaragdia viridis,,5,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1211,CIM-UH_GB_1211,Steironepion minus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1212,CIM-UH_GB_1212,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1213,CIM-UH_GB_1213,Transennella cubaniana,,41,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1214,CIM-UH_GB_1214,Trochomodulus carchedonius,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1215,CIM-UH_GB_1215,Tucetona subtilis,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB10R3,1216,CIM-UH_GB_1216,Turbo castanea,,7,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB10R3,1217,CIM-UH_GB_1217,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB10R3,1218,CIM-UH_GB_1218,Zebina browniana,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB11R1,1219,CIM-UH_GB_1219,Aclophora sagei,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1220,CIM-UH_GB_1220,Acteocina candei,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1221,CIM-UH_GB_1221,Acteocina lepta,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1222,CIM-UH_GB_1222,Acteocina recta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1223,CIM-UH_GB_1223,Agathistoma fasciatum,,9,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1224,CIM-UH_GB_1224,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1225,CIM-UH_GB_1225,Ailinzebina elegantissima,,38,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1226,CIM-UH_GB_1226,Alvania auberiana,,18,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1227,CIM-UH_GB_1227,Alvania debruynei,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1228,CIM-UH_GB_1228,Angulus ,sp.,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1229,CIM-UH_GB_1229,Antalis antillarum,,7,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1230,CIM-UH_GB_1230,Arca zebra,,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1231,CIM-UH_GB_1231,Arcopsis adamsi,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1232,CIM-UH_GB_1232,Arene venustula,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1233,CIM-UH_GB_1233,Atlantilux exigua,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1234,CIM-UH_GB_1234,Atys caribaeus,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1235,CIM-UH_GB_1235,Atys sharpi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1236,CIM-UH_GB_1236,Barbatia domingensis,,69,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1237,CIM-UH_GB_1237,Barleeia ,spp.,12,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1238,CIM-UH_GB_1238,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1239,CIM-UH_GB_1239,Caecum antillarum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1240,CIM-UH_GB_1240,Caecum ,cf. gurgulio,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1241,CIM-UH_GB_1241,Caecum ,cf. textile,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1242,CIM-UH_GB_1242,Caecum floridanum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1243,CIM-UH_GB_1243,Caecum imbricatum,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1244,CIM-UH_GB_1244,Caecum lineicinctum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1245,CIM-UH_GB_1245,Caecum plicatum,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1246,CIM-UH_GB_1246,Caecum regulare,,19,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1247,CIM-UH_GB_1247,Calliostoma jujubinum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1248,CIM-UH_GB_1248,Calliostoma pulchrum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1249,CIM-UH_GB_1249,Carditopsis bernardi,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1250,CIM-UH_GB_1250,Carditopsis smithii,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1251,CIM-UH_GB_1251,Cerithiopsis dilata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1252,CIM-UH_GB_1252,Cerithiopsis flava,,11,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1253,CIM-UH_GB_1253,Cerithiopsis vicola,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1254,CIM-UH_GB_1254,Cerithium eburneum,,17,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1255,CIM-UH_GB_1255,Cerithium litteratum,,28,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1256,CIM-UH_GB_1256,Chama florida,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1257,CIM-UH_GB_1257,Chama ,sp.,6,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1258,CIM-UH_GB_1258,Claremontiella nodulosa,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1259,CIM-UH_GB_1259,Clathrolucina costata,,4,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R1,1260,CIM-UH_GB_1260,Columbella mercatoria,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1261,CIM-UH_GB_1261,Conus, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1262,CIM-UH_GB_1262,Coralliophila salebrosa,,7,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1263,CIM-UH_GB_1263,Cosmotriphora melanura,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1264,CIM-UH_GB_1264,Crassinella lunulata,,9,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1265,CIM-UH_GB_1265,Crassispira flavocincta,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1266,CIM-UH_GB_1266,Creseis acicula,,2,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB11R1,1267,CIM-UH_GB_1267,Ctena, spp.,6,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R1,1268,CIM-UH_GB_1268,Ctenoides mitis,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1269,CIM-UH_GB_1269,Cumingia antillarum,,4,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1270,CIM-UH_GB_1270,Cumingia vanhyningi,,3,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1271,CIM-UH_GB_1271,Cyclostrema amabile,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1272,CIM-UH_GB_1272,Diodora minuta,,5,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1273,CIM-UH_GB_1273,Ennucula aegeensis,,2,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1274,CIM-UH_GB_1274,Eoacmaea pustulata,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1275,CIM-UH_GB_1275,Ervilia nitens,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1276,CIM-UH_GB_1276,Eulimastoma didymum,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1277,CIM-UH_GB_1277,Eulithidium bellum,,21,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1278,CIM-UH_GB_1278,Eulithidium, sp.,25,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1279,CIM-UH_GB_1279,Eutriphora bermudensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1280,CIM-UH_GB_1280,Falsuszafrona idalina,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1281,CIM-UH_GB_1281,Falsuszafrona pulchella,,15,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1282,CIM-UH_GB_1282,Finella adamsi,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1283,CIM-UH_GB_1283,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1284,CIM-UH_GB_1284,Gibberula fluctuata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1285,CIM-UH_GB_1285,Gibberula ,spp.,7,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1286,CIM-UH_GB_1286,Glycymeris decussata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1287,CIM-UH_GB_1287,Granulina antillensis,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1288,CIM-UH_GB_1288,Haminoea elegans,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1289,CIM-UH_GB_1289,Heliacus cylindricus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1290,CIM-UH_GB_1290,Heliconoides inflatus,,1,Gastropoda,Suspension feeder,Pelagic,coral reef
+GB,GB_GB11R1,1291,CIM-UH_GB_1291,Hemiliostraca auricincta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1292,CIM-UH_GB_1292,Hemimarginula pumila,,12,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1293,CIM-UH_GB_1293,Hipponix antiquatus,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1294,CIM-UH_GB_1294,Horologica pupa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1295,CIM-UH_GB_1295,Inbiocystiscus triplicatus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1296,CIM-UH_GB_1296,Iniforis pseudothomae,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1297,CIM-UH_GB_1297,Iniforis turristhomae,,13,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1298,CIM-UH_GB_1298,Intelcystiscus, sp.,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1299,CIM-UH_GB_1299,Isotriphora peetersae,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1300,CIM-UH_GB_1300,Isotriphora taenialba,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1301,CIM-UH_GB_1301,Lamarcka imbricata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1302,CIM-UH_GB_1302,Lima caribaea,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1303,CIM-UH_GB_1303,Lithopoma phoebium,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1304,CIM-UH_GB_1304,Marshallora modesta,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1305,CIM-UH_GB_1305,Mathilda scitula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1306,CIM-UH_GB_1306,Megalomphalus oxychone,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1307,CIM-UH_GB_1307,Megalomphalus pilsbryi,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1308,CIM-UH_GB_1308,Meioceras cornucopiae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1309,CIM-UH_GB_1309,Meioceras nitidum,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1310,CIM-UH_GB_1310,Merisca ,sp.,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1311,CIM-UH_GB_1311,Metaxia excelsa,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1312,CIM-UH_GB_1312,Mirarissoina bermudezi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1313,CIM-UH_GB_1313,Mitrella nycteis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1314,CIM-UH_GB_1314,Mitromorpha erycinella,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1315,CIM-UH_GB_1315,Monophorus olivaceus,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1316,CIM-UH_GB_1316,Mumiola gradatula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1317,CIM-UH_GB_1317,Neotiara nodulosa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1318,CIM-UH_GB_1318,Niso albida,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1319,CIM-UH_GB_1319,Niveria quadripunctata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1320,CIM-UH_GB_1320,Nototriphora decorata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1321,CIM-UH_GB_1321,Nucula proxima,,5,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R1,1322,CIM-UH_GB_1322,Odostomia laevigata,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1323,CIM-UH_GB_1323,Olivella, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1324,CIM-UH_GB_1324,Ostrea equestris,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1325,CIM-UH_GB_1325,Parvilucina ,spp.,6,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R1,1326,CIM-UH_GB_1326,Parviturbo weberi,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1327,CIM-UH_GB_1327,Phosinella cancellina,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1328,CIM-UH_GB_1328,Phosinella fenestrata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1329,CIM-UH_GB_1329,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1330,CIM-UH_GB_1330,Phrontis antillarum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1331,CIM-UH_GB_1331,Pseudostomatella erythrocoma,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1332,CIM-UH_GB_1332,Sagenotriphora osclausum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1333,CIM-UH_GB_1333,Schwartziella fischeri,,11,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1334,CIM-UH_GB_1334,Schwartziella vanpeli,,12,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1335,CIM-UH_GB_1335,Similiphora intermedia,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1336,CIM-UH_GB_1336,Simulamerelina ,spp.,11,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1337,CIM-UH_GB_1337,Steironepion maculatum,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1338,CIM-UH_GB_1338,Tenagodus squamatus,,1,Gastropoda,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1339,CIM-UH_GB_1339,Tenaturris dysoni,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1340,CIM-UH_GB_1340,Tenaturris trilineata,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1341,CIM-UH_GB_1341,Trabecula krumpermani,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1342,CIM-UH_GB_1342,Trachypollia turricula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1343,CIM-UH_GB_1343,Transennella cubaniana,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1344,CIM-UH_GB_1344,Triphora ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1345,CIM-UH_GB_1345,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1346,CIM-UH_GB_1346,Tucetona pectinata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1347,CIM-UH_GB_1347,Tucetona subtilis,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R1,1348,CIM-UH_GB_1348,Turbonilla pupoides,,15,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1349,CIM-UH_GB_1349,Turbonilla ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1350,CIM-UH_GB_1350,Vexillum sykesi,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1351,CIM-UH_GB_1351,Vitreolina, sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1352,CIM-UH_GB_1352,Vitrinella anneliesae,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1353,CIM-UH_GB_1353,Volvarina ,cf. artemisae,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R1,1354,CIM-UH_GB_1354,Weinkauffia macandrewii,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1355,CIM-UH_GB_1355,Zebina browniana,,19,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1356,CIM-UH_GB_1356,Zebina vitrea,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1357,CIM-UH_GB_1357,Zebinella decussata,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R1,1358,CIM-UH_GB_1358,Zebinella princeps,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1359,CIM-UH_GB_1359,Agathistoma fasciatum,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1360,CIM-UH_GB_1360,Ailinzebina elegantissima,,18,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1361,CIM-UH_GB_1361,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1362,CIM-UH_GB_1362,Alvania auberiana,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1363,CIM-UH_GB_1363,Alvania debruynei,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1364,CIM-UH_GB_1364,Antalis antillarum,,7,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1365,CIM-UH_GB_1365,Arca zebra,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1366,CIM-UH_GB_1366,Atys caribaeus,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1367,CIM-UH_GB_1367,Barbatia domingensis,,51,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1368,CIM-UH_GB_1368,Bulla occidentalis,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1369,CIM-UH_GB_1369,Caecum floridanum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1370,CIM-UH_GB_1370,Caecum imbricatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1371,CIM-UH_GB_1371,Caecum lineicinctum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1372,CIM-UH_GB_1372,Caecum plicatum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1373,CIM-UH_GB_1373,Calliostoma jujubinum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1374,CIM-UH_GB_1374,Cerithiopsis academicorum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1375,CIM-UH_GB_1375,Cerithiopsis dilata,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1376,CIM-UH_GB_1376,Cerithiopsis flava,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1377,CIM-UH_GB_1377,Cerithium eburneum,,13,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1378,CIM-UH_GB_1378,Cerithium litteratum,,8,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1379,CIM-UH_GB_1379,Chama ,sp.,4,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1380,CIM-UH_GB_1380,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1381,CIM-UH_GB_1381,Claremontiella nodulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1382,CIM-UH_GB_1382,Codakia orbicularis,,1,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R2,1383,CIM-UH_GB_1383,Columbella mercatoria,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1384,CIM-UH_GB_1384,Conasprella jaspidea,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1385,CIM-UH_GB_1385,Coralliophila salebrosa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1386,CIM-UH_GB_1386,Cosmotriphora melanura,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1387,CIM-UH_GB_1387,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1388,CIM-UH_GB_1388,Crassispira flavocincta,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1389,CIM-UH_GB_1389,Ctena orbiculata,,1,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R2,1390,CIM-UH_GB_1390,Ctena, spp.,2,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R2,1391,CIM-UH_GB_1391,Ctenoides mitis,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1392,CIM-UH_GB_1392,Cumingia vanhyningi,,4,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1393,CIM-UH_GB_1393,Diodora minuta,,1,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1394,CIM-UH_GB_1394,Emiliotia rubrostriata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1395,CIM-UH_GB_1395,Eoacmaea pustulata,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1396,CIM-UH_GB_1396,Ervilia nitens,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1397,CIM-UH_GB_1397,Eulimastoma didymum,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1398,CIM-UH_GB_1398,Eulithidium bellum,,12,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1399,CIM-UH_GB_1399,Eulithidium, sp.,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1400,CIM-UH_GB_1400,Eutriphora bermudensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1401,CIM-UH_GB_1401,Falsuszafrona idalina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1402,CIM-UH_GB_1402,Falsuszafrona pulchella,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1403,CIM-UH_GB_1403,Finella adamsi,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1404,CIM-UH_GB_1404,Finella dubia,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1405,CIM-UH_GB_1405,Granulina ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1406,CIM-UH_GB_1406,Haminoea elegans,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1407,CIM-UH_GB_1407,Haplocochlias nunezi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1408,CIM-UH_GB_1408,Hemiliostraca auricincta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1409,CIM-UH_GB_1409,Hemimarginula pumila,,2,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1410,CIM-UH_GB_1410,Hipponix antiquatus,,1,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1411,CIM-UH_GB_1411,Horologica pupa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1412,CIM-UH_GB_1412,Hyalina ,cf. egregia,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1413,CIM-UH_GB_1413,Inbiocystiscus triplicatus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1414,CIM-UH_GB_1414,Iniforis turristhomae,,8,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1415,CIM-UH_GB_1415,Lamarcka imbricata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1416,CIM-UH_GB_1416,Lima caribaea,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1417,CIM-UH_GB_1417,Limaria pellucida,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1418,CIM-UH_GB_1418,Meioceras nitidum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1419,CIM-UH_GB_1419,Mitrella nycteis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1420,CIM-UH_GB_1420,Monophorus olivaceus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1421,CIM-UH_GB_1421,Mumiola gradatula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1422,CIM-UH_GB_1422,Neotiara nodulosa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1423,CIM-UH_GB_1423,Nototriphora decorata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1424,CIM-UH_GB_1424,Nucula proxima,,3,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R2,1425,CIM-UH_GB_1425,Parvilucina ,spp.,7,Bivalvia,Chemosymbiont,Benthic,coral reef
+GB,GB_GB11R2,1426,CIM-UH_GB_1426,Parviturbo weberi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1427,CIM-UH_GB_1427,Phosinella cancellina,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1428,CIM-UH_GB_1428,Phosinella fenestrata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1429,CIM-UH_GB_1429,Probata barbadensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1430,CIM-UH_GB_1430,Schwartziella bryerea,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1431,CIM-UH_GB_1431,Schwartziella vanpeli,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1432,CIM-UH_GB_1432,Schwartziella yoguii,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1433,CIM-UH_GB_1433,Simulamerelina ,spp.,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1434,CIM-UH_GB_1434,Steironepion maculatum,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1435,CIM-UH_GB_1435,Tenaturris dysoni,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1436,CIM-UH_GB_1436,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1437,CIM-UH_GB_1437,Tucetona pectinata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R2,1438,CIM-UH_GB_1438,Turbonilla pupoides,,9,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1439,CIM-UH_GB_1439,Turbonilla riisei,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1440,CIM-UH_GB_1440,Vexillum sykesi,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1441,CIM-UH_GB_1441,Volvarina ,spp.,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R2,1442,CIM-UH_GB_1442,Zebina browniana,,5,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1443,CIM-UH_GB_1443,Zebina vitrea,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R2,1444,CIM-UH_GB_1444,Zebinella decussata,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1445,CIM-UH_GB_1445,Agathistoma fasciatum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1446,CIM-UH_GB_1446,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1447,CIM-UH_GB_1447,Ailinzebina elegantissima,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1448,CIM-UH_GB_1448,Antalis antillarum,,1,Scaphopoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1449,CIM-UH_GB_1449,Arcopsis adamsi,,6,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1450,CIM-UH_GB_1450,Barbatia domingensis,,13,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1451,CIM-UH_GB_1451,Belonimorphis cubensis,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1452,CIM-UH_GB_1452,Caecum floridanum,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1453,CIM-UH_GB_1453,Cerithiopsis ,cf. iontha,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1454,CIM-UH_GB_1454,Cerithiopsis flava,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1455,CIM-UH_GB_1455,Cerithiopsis gemmulosa,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1456,CIM-UH_GB_1456,Cerithium eburneum,,4,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R3,1457,CIM-UH_GB_1457,Cerithium litteratum,,10,Gastropoda,Herbivores/Deposit feeder,Benthic,coral reef
+GB,GB_GB11R3,1458,CIM-UH_GB_1458,Chama ,sp.,5,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1459,CIM-UH_GB_1459,Conasprella jaspidea,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1460,CIM-UH_GB_1460,Cosmotriphora melanura,,4,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1461,CIM-UH_GB_1461,Crassinella lunulata,,2,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1462,CIM-UH_GB_1462,Diodora minuta,,6,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1463,CIM-UH_GB_1463,Ennucula aegeensis,,2,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R3,1464,CIM-UH_GB_1464,Eoacmaea pustulata,,3,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1465,CIM-UH_GB_1465,Eulimastoma didymum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1466,CIM-UH_GB_1466,Eulithidium adamsi,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1467,CIM-UH_GB_1467,Eulithidium bellum,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1468,CIM-UH_GB_1468,Eulithidium, sp.,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1469,CIM-UH_GB_1469,Eutriphora bermudensis,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1470,CIM-UH_GB_1470,Falsuszafrona pulchella,,4,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1471,CIM-UH_GB_1471,Gibberula fluctuata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1472,CIM-UH_GB_1472,Gibberula ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1473,CIM-UH_GB_1473,Gouldia cerina,,1,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1474,CIM-UH_GB_1474,Hemiliostraca auricincta,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1475,CIM-UH_GB_1475,Hemimarginula pumila,,2,Gastropoda,Herbivores/Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1476,CIM-UH_GB_1476,Hipponix antiquatus,,3,Gastropoda,Herbivores/Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1477,CIM-UH_GB_1477,Iniforis pseudothomae,,2,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1478,CIM-UH_GB_1478,Iniforis turristhomae,,5,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1479,CIM-UH_GB_1479,Isotriphora peetersae,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1480,CIM-UH_GB_1480,Lamarcka imbricata,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1481,CIM-UH_GB_1481,Lima caribaea,,3,Bivalvia,Suspension feeder,Benthic,coral reef
+GB,GB_GB11R3,1482,CIM-UH_GB_1482,Merisca ,sp.,1,Bivalvia,Deposit feeder,Benthic,coral reef
+GB,GB_GB11R3,1483,CIM-UH_GB_1483,Mitrella antares,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1484,CIM-UH_GB_1484,Monophorus olivaceus,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1485,CIM-UH_GB_1485,Neotiara nodulosa,,3,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1486,CIM-UH_GB_1486,Odostomia laevigata,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1487,CIM-UH_GB_1487,Parvioris ,sp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1488,CIM-UH_GB_1488,Sagenotriphora osclausum,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1489,CIM-UH_GB_1489,Schwartziella fischeri,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1490,CIM-UH_GB_1490,Schwartziella vanpeli,,7,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1491,CIM-UH_GB_1491,Seila adamsii,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1492,CIM-UH_GB_1492,Similiphora intermedia,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1493,CIM-UH_GB_1493,Simulamerelina ,spp.,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1494,CIM-UH_GB_1494,Trachypollia turricula,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1495,CIM-UH_GB_1495,Triptychus niveus,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1496,CIM-UH_GB_1496,Turbonilla fonteini,,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1497,CIM-UH_GB_1497,Turbonilla pupoides,,6,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1498,CIM-UH_GB_1498,Volvarina ,spp.,1,Gastropoda,Carnivores,Benthic,coral reef
+GB,GB_GB11R3,1499,CIM-UH_GB_1499,Zebina browniana,,6,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1500,CIM-UH_GB_1500,Zebina sloaniana,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1501,CIM-UH_GB_1501,Zebina vitrea,,2,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB11R3,1502,CIM-UH_GB_1502,Zebinella decussata,,1,Gastropoda,Herbivores,Benthic,coral reef
+GB,GB_GB12R1,1503,CIM-UH_GB_1503,Acteocina candei,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1504,CIM-UH_GB_1504,Agathistoma fasciatum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1505,CIM-UH_GB_1505,Alaba incerta,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1506,CIM-UH_GB_1506,Americardia guppyi,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1507,CIM-UH_GB_1507,Amerycina periscopiana,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1508,CIM-UH_GB_1508,Brachycythara alba,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1509,CIM-UH_GB_1509,Carditopsis smithii,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1510,CIM-UH_GB_1510,Cerithiopsis, spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1511,CIM-UH_GB_1511,Cerithium eburneum,,17,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R1,1512,CIM-UH_GB_1512,Cerithium litteratum,,30,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R1,1513,CIM-UH_GB_1513,Chione cancellata,,12,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1514,CIM-UH_GB_1514,Clathrolucina costata,,7,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R1,1515,CIM-UH_GB_1515,Ctena, spp.,1,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R1,1516,CIM-UH_GB_1516,Eoacmaea pustulata,,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1517,CIM-UH_GB_1517,Ervilia nitens,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1518,CIM-UH_GB_1518,Eulithidium adamsi,,6,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1519,CIM-UH_GB_1519,Eulithidium affine,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1520,CIM-UH_GB_1520,Eulithidium bellum,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1521,CIM-UH_GB_1521,Eulithidium, sp.,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1522,CIM-UH_GB_1522,Eulithidium thalassicola,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1523,CIM-UH_GB_1523,Finella adamsi,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R1,1524,CIM-UH_GB_1524,Finella dubia,,3,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R1,1525,CIM-UH_GB_1525,Gouldia cerina,,10,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1526,CIM-UH_GB_1526,Granulina antillensis,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1527,CIM-UH_GB_1527,Ithycythara ,sp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1528,CIM-UH_GB_1528,Laevicardium serratum,,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1529,CIM-UH_GB_1529,Lucina pensylvanica,,12,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R1,1530,CIM-UH_GB_1530,Meioceras nitidum,,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1531,CIM-UH_GB_1531,Modulus modulus,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1532,CIM-UH_GB_1532,Nassarius ,spp.,5,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1533,CIM-UH_GB_1533,Parvilucina ,spp.,29,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R1,1534,CIM-UH_GB_1534,Phosinella sagraiana,,7,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1535,CIM-UH_GB_1535,Pilsbryspira albocincta,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1536,CIM-UH_GB_1536,Scissula similis,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB12R1,1537,CIM-UH_GB_1537,Smaragdia viridis,,10,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1538,CIM-UH_GB_1538,Suturoglypta occidualis,,3,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1539,CIM-UH_GB_1539,Suturoglypta ,spp.,2,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R1,1540,CIM-UH_GB_1540,Transennella gerrardi,,8,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1541,CIM-UH_GB_1541,Trochomodulus carchedonius,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1542,CIM-UH_GB_1542,Tucetona pectinata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R1,1543,CIM-UH_GB_1543,Weinkauffia macandrewii,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R1,1544,CIM-UH_GB_1544,Zebina browniana,,5,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R2,1545,CIM-UH_GB_1545,Agathotoma ecthymata,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R2,1546,CIM-UH_GB_1546,Americardia guppyi,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1547,CIM-UH_GB_1547,Carditopsis smithii,,4,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1548,CIM-UH_GB_1548,Cerithium atratum,,1,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R2,1549,CIM-UH_GB_1549,Cerithium eburneum,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R2,1550,CIM-UH_GB_1550,Cerithium litteratum,,17,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R2,1551,CIM-UH_GB_1551,Ctena imbricatula,,7,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R2,1552,CIM-UH_GB_1552,Eoacmaea pustulata,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R2,1553,CIM-UH_GB_1553,Ervilia nitens,,8,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1554,CIM-UH_GB_1554,Eulithidium affine,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R2,1555,CIM-UH_GB_1555,Gouldia cerina,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1556,CIM-UH_GB_1556,Laevicardium ,sp.,2,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1557,CIM-UH_GB_1557,Limopsis ,sp.,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R2,1558,CIM-UH_GB_1558,Lucina pensylvanica,,5,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R2,1559,CIM-UH_GB_1559,Parvilucina ,spp.,2,Bivalvia,Chemosymbiont,Benthic,seagrass
+GB,GB_GB12R2,1560,CIM-UH_GB_1560,Phrontis antillarum,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R2,1561,CIM-UH_GB_1561,Polinices lacteus,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R2,1562,CIM-UH_GB_1562,Semele bellastriata,,13,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB12R2,1563,CIM-UH_GB_1563,Smaragdia viridis,,8,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R2,1564,CIM-UH_GB_1564,Suturoglypta ,spp.,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R2,1565,CIM-UH_GB_1565,Trochomodulus carchedonius,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R2,1566,CIM-UH_GB_1566,Turbo castanea,,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1567,CIM-UH_GB_1567,Amerycina periscopiana,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1568,CIM-UH_GB_1568,Antalis antillarum,,1,Scaphopoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R3,1569,CIM-UH_GB_1569,Carditopsis smithii,,3,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1570,CIM-UH_GB_1570,Cerithium eburneum,,2,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R3,1571,CIM-UH_GB_1571,Cerithium litteratum,,9,Gastropoda,Herbivores/Deposit feeder,Benthic,seagrass
+GB,GB_GB12R3,1572,CIM-UH_GB_1572,Chione cancellata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1573,CIM-UH_GB_1573,Crassinella lunulata,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1574,CIM-UH_GB_1574,Eoacmaea pustulata,,4,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1575,CIM-UH_GB_1575,Eulithidium adamsi,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1576,CIM-UH_GB_1576,Gouldia cerina,,5,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1577,CIM-UH_GB_1577,Nucula proxima,,1,Bivalvia,Deposit feeder,Benthic,seagrass
+GB,GB_GB12R3,1578,CIM-UH_GB_1578,Phosinella sagraiana,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1579,CIM-UH_GB_1579,Phrontis antillarum,,2,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R3,1580,CIM-UH_GB_1580,Pitar fulminatus,,1,Bivalvia,Suspension feeder,Benthic,seagrass
+GB,GB_GB12R3,1581,CIM-UH_GB_1581,Smaragdia viridis,,1,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1582,CIM-UH_GB_1582,Suturoglypta occidualis,,1,Gastropoda,Carnivores,Benthic,seagrass
+GB,GB_GB12R3,1583,CIM-UH_GB_1583,Trochomodulus carchedonius,,3,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1584,CIM-UH_GB_1584,Turbo castanea,,2,Gastropoda,Herbivores,Benthic,seagrass
+GB,GB_GB12R3,1585,CIM-UH_GB_1585,Zebina browniana,,7,Gastropoda,Herbivores,Benthic,seagrass
