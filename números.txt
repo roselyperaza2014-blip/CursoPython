@@ -1,7 +1,0 @@
-uno
-dos
-tres
-cuantro
-cinco
-seis
-siete y ocho

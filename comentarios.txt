@@ -1,5 +1,0 @@
-- comentario uno
-- comentario dos
--comentario tres
-
-=========otra nota ejemplo==========
